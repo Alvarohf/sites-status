@@ -40,25 +40,27 @@
     "url": "https://helpmetaverse.com",
     "icon": "https://favicons.githubusercontent.com/helpmetaverse.com",
     "slug": "help-metaverse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1905,
     "timeDay": 1544,
-    "timeWeek": 1893,
+    "timeWeek": 1822,
     "timeMonth": 1905,
     "timeYear": 1905,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-14": 0
+    }
   },
   {
     "name": "Cañada el Espinar",
     "url": "https://cañadaespinar.com",
     "icon": "https://favicons.githubusercontent.com/xn--caadaespinar-bhb.com",
     "slug": "canada-el-espinar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,9 +68,11 @@
     "uptimeYear": "100.00%",
     "time": 666,
     "timeDay": 585,
-    "timeWeek": 669,
+    "timeWeek": 661,
     "timeMonth": 666,
     "timeYear": 666,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-14": 0
+    }
   }
 ]
