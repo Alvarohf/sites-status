@@ -40,19 +40,19 @@
     "url": "https://helpmetaverse.com",
     "icon": "https://favicons.githubusercontent.com/helpmetaverse.com",
     "slug": "help-metaverse",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1901,
-    "timeDay": 1718,
-    "timeWeek": 1850,
-    "timeMonth": 1901,
-    "timeYear": 1901,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1914,
+    "timeDay": 1951,
+    "timeWeek": 1880,
+    "timeMonth": 1914,
+    "timeYear": 1914,
     "dailyMinutesDown": {
-      "2022-02-16": 0
+      "2022-02-16": 7
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://cañadaespinar.com",
     "icon": "https://favicons.githubusercontent.com/xn--caadaespinar-bhb.com",
     "slug": "canada-el-espinar",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 843,
-    "timeDay": 2373,
-    "timeWeek": 1031,
-    "timeMonth": 843,
-    "timeYear": 843,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 930,
+    "timeDay": 2525,
+    "timeWeek": 1180,
+    "timeMonth": 930,
+    "timeYear": 930,
     "dailyMinutesDown": {
-      "2022-02-16": 0
+      "2022-02-16": 7
     }
   }
 ]
