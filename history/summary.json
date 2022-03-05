@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 83,
-    "timeDay": 69,
-    "timeWeek": 79,
-    "timeMonth": 83,
-    "timeYear": 83,
+    "time": 84,
+    "timeDay": 114,
+    "timeWeek": 83,
+    "timeMonth": 84,
+    "timeYear": 84,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/planetafascinante.com",
     "slug": "planeta-fascinante",
     "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "72.14%",
+    "uptime": "98.89%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.68%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "98.86%",
-    "time": 723,
-    "timeDay": 850,
-    "timeWeek": 657,
-    "timeMonth": 723,
-    "timeYear": 723,
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.89%",
+    "time": 711,
+    "timeDay": 332,
+    "timeWeek": 638,
+    "timeMonth": 711,
+    "timeYear": 711,
     "dailyMinutesDown": {
       "2022-03-03": 436
     }
@@ -43,19 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/helpmetaverse.com",
     "slug": "help-metaverse",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1743,
-    "timeDay": 1749,
-    "timeWeek": 1495,
-    "timeMonth": 1743,
-    "timeYear": 1743,
-    "dailyMinutesDown": {
-      "2022-03-04": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1749,
+    "timeDay": 1829,
+    "timeWeek": 1531,
+    "timeMonth": 1749,
+    "timeYear": 1749,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cañada el Espinar",
@@ -63,18 +61,16 @@
     "icon": "https://favicons.githubusercontent.com/xn--caadaespinar-bhb.com",
     "slug": "canada-el-espinar",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1201,
-    "timeDay": 619,
-    "timeWeek": 977,
-    "timeMonth": 1201,
-    "timeYear": 1201,
-    "dailyMinutesDown": {
-      "2022-03-04": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1195,
+    "timeDay": 768,
+    "timeWeek": 861,
+    "timeMonth": 1195,
+    "timeYear": 1195,
+    "dailyMinutesDown": {}
   }
 ]
