@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 56,
-    "timeWeek": 81,
+    "timeDay": 97,
+    "timeWeek": 83,
     "timeMonth": 99,
     "timeYear": 93,
     "dailyMinutesDown": {}
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/planetafascinante.com",
     "slug": "planeta-fascinante",
     "status": "up",
-    "uptime": "99.31%",
+    "uptime": "99.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.00%",
-    "uptimeYear": "99.31%",
-    "time": 651,
-    "timeDay": 483,
-    "timeWeek": 343,
+    "uptimeYear": "99.33%",
+    "time": 648,
+    "timeDay": 459,
+    "timeWeek": 338,
     "timeMonth": 740,
-    "timeYear": 651,
+    "timeYear": 648,
     "dailyMinutesDown": {
       "2022-03-03": 436
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 1777,
-    "timeDay": 1496,
-    "timeWeek": 1932,
-    "timeMonth": 1717,
-    "timeYear": 1777,
+    "time": 1776,
+    "timeDay": 1740,
+    "timeWeek": 1948,
+    "timeMonth": 1740,
+    "timeYear": 1776,
     "dailyMinutesDown": {
       "2022-03-10": 16
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 1039,
-    "timeDay": 569,
-    "timeWeek": 794,
-    "timeMonth": 951,
-    "timeYear": 1039,
+    "time": 1032,
+    "timeDay": 584,
+    "timeWeek": 787,
+    "timeMonth": 908,
+    "timeYear": 1032,
     "dailyMinutesDown": {
       "2022-03-10": 16
     }
