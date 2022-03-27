@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/planetafascinante.com",
     "slug": "planeta-fascinante",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.00%",
-    "uptimeYear": "99.38%",
+    "uptimeYear": "99.39%",
     "time": 631,
     "timeDay": 363,
     "timeWeek": 392,
@@ -42,18 +42,19 @@
     "url": "https://helpmetaverse.com",
     "icon": "https://favicons.githubusercontent.com/helpmetaverse.com",
     "slug": "help-metaverse",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1752,
     "timeDay": 2351,
-    "timeWeek": 1613,
+    "timeWeek": 1528,
     "timeMonth": 1729,
     "timeYear": 1752,
     "dailyMinutesDown": {
+      "2022-03-27": 0,
       "2022-03-10": 16
     }
   },
@@ -62,7 +63,7 @@
     "url": "https://cañadaespinar.com",
     "icon": "https://favicons.githubusercontent.com/xn--caadaespinar-bhb.com",
     "slug": "canada-el-espinar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -70,10 +71,11 @@
     "uptimeYear": "99.98%",
     "time": 1016,
     "timeDay": 886,
-    "timeWeek": 766,
+    "timeWeek": 741,
     "timeMonth": 787,
     "timeYear": 1016,
     "dailyMinutesDown": {
+      "2022-03-27": 0,
       "2022-03-10": 16
     }
   }
