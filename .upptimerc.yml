@@ -7,10 +7,10 @@ sites:
     url: https://www.google.com
   - name: Planeta Fascinante
     url: https://planetafascinante.com
-  - name: Help Metaverse
-    url: https://helpmetaverse.com
   - name: Cañada el Espinar
     url: https://cañadaespinar.com
+  - name: Overtips
+    url: https://overtips.es
 
 status-website:
   baseUrl: /sites-status
