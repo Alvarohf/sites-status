@@ -48,12 +48,12 @@
     "uptime": "99.72%",
     "uptimeDay": "98.45%",
     "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.34%",
+    "uptimeMonth": "99.41%",
     "uptimeYear": "99.72%",
     "time": 987,
     "timeDay": 1466,
     "timeWeek": 965,
-    "timeMonth": 983,
+    "timeMonth": 981,
     "timeYear": 987,
     "dailyMinutesDown": {
       "2022-08-15": 22,
@@ -87,19 +87,19 @@
     "url": "https://overtips.es",
     "icon": "https://favicons.githubusercontent.com/overtips.es",
     "slug": "overtips",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 915,
-    "timeDay": 1327,
-    "timeWeek": 915,
-    "timeMonth": 915,
-    "timeYear": 915,
+    "status": "up",
+    "uptime": "99.51%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
+    "time": 891,
+    "timeDay": 1133,
+    "timeWeek": 891,
+    "timeMonth": 891,
+    "timeYear": 891,
     "dailyMinutesDown": {
-      "2022-08-15": 0
+      "2022-08-15": 34
     }
   }
 ]
