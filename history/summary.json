@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 104,
-    "timeDay": 152,
-    "timeWeek": 183,
-    "timeMonth": 131,
-    "timeYear": 106,
+    "time": 105,
+    "timeDay": 359,
+    "timeWeek": 198,
+    "timeMonth": 138,
+    "timeYear": 107,
     "dailyMinutesDown": {
       "2023-08-04": 16,
       "2023-07-12": 21
@@ -29,13 +29,13 @@
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.95%",
-    "time": 946,
-    "timeDay": 1427,
-    "timeWeek": 1170,
-    "timeMonth": 1737,
-    "timeYear": 1176,
+    "time": 947,
+    "timeDay": 1327,
+    "timeWeek": 1186,
+    "timeMonth": 1605,
+    "timeYear": 1178,
     "dailyMinutesDown": {
       "2023-08-21": 80,
       "2023-08-11": 21,
@@ -52,18 +52,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "61.77%",
+    "uptime": "61.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "39.20%",
+    "uptimeYear": "38.93%",
     "time": 1197,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 988,
+    "timeYear": 990,
     "dailyMinutesDown": {
-      "2023-09-11": 64,
+      "2023-09-12": 62,
+      "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
@@ -289,8 +290,7 @@
       "2022-12-22": 25,
       "2022-10-19": 34,
       "2022-10-17": 33,
-      "2022-09-13": 73,
-      "2022-09-12": 132
+      "2022-09-13": 73
     }
   },
   {
@@ -302,13 +302,13 @@
     "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.79%",
     "time": 1065,
-    "timeDay": 1141,
-    "timeWeek": 976,
-    "timeMonth": 1061,
-    "timeYear": 995,
+    "timeDay": 1046,
+    "timeWeek": 977,
+    "timeMonth": 953,
+    "timeYear": 996,
     "dailyMinutesDown": {
       "2023-08-21": 74,
       "2023-08-11": 21,
@@ -319,8 +319,7 @@
       "2022-10-25": 85,
       "2022-10-19": 23,
       "2022-09-18": 17,
-      "2022-09-13": 23,
-      "2022-09-12": 180
+      "2022-09-13": 23
     }
   }
 ]
