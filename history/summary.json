@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 66,
-    "timeWeek": 92,
-    "timeMonth": 128,
+    "timeDay": 62,
+    "timeWeek": 90,
+    "timeMonth": 127,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2024-05-01": 35,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.36%",
-    "time": 1442,
-    "timeDay": 1416,
-    "timeWeek": 1105,
-    "timeMonth": 1180,
-    "timeYear": 1422,
+    "time": 1440,
+    "timeDay": 783,
+    "timeWeek": 1060,
+    "timeMonth": 1171,
+    "timeYear": 1417,
     "dailyMinutesDown": {
       "2024-05-29": 18,
       "2024-04-08": 56,
@@ -84,8 +84,7 @@
       "2024-01-13": 1373,
       "2024-01-03": 15,
       "2023-12-08": 28,
-      "2023-08-21": 80,
-      "2023-08-11": 21
+      "2023-08-21": 80
     }
   },
   {
@@ -94,7 +93,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "39.29%",
+    "uptime": "39.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -105,7 +104,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-09": 77,
+      "2024-08-10": 77,
+      "2024-08-09": 1440,
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
@@ -468,8 +468,7 @@
       "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
-      "2023-08-12": 1440,
-      "2023-08-11": 1440
+      "2023-08-12": 1440
     }
   },
   {
@@ -483,18 +482,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 947,
-    "timeDay": 661,
-    "timeWeek": 782,
-    "timeMonth": 1008,
-    "timeYear": 940,
+    "time": 946,
+    "timeDay": 648,
+    "timeWeek": 759,
+    "timeMonth": 1007,
+    "timeYear": 932,
     "dailyMinutesDown": {
       "2024-05-29": 18,
       "2024-04-08": 56,
       "2024-01-03": 15,
       "2023-12-08": 28,
-      "2023-08-21": 74,
-      "2023-08-11": 21
+      "2023-08-21": 74
     }
   }
 ]
