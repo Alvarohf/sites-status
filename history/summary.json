@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 113,
-    "timeDay": 97,
-    "timeWeek": 96,
-    "timeMonth": 135,
+    "timeDay": 155,
+    "timeWeek": 104,
+    "timeMonth": 137,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2024-09-02": 24,
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.39%",
-    "time": 1413,
-    "timeDay": 1302,
-    "timeWeek": 1564,
-    "timeMonth": 1148,
-    "timeYear": 1371,
+    "time": 1417,
+    "timeDay": 2802,
+    "timeWeek": 1592,
+    "timeMonth": 1195,
+    "timeYear": 1376,
     "dailyMinutesDown": {
       "2024-05-29": 18,
       "2024-04-08": 56,
@@ -82,8 +82,7 @@
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
-      "2024-01-13": 1373,
-      "2024-01-03": 15
+      "2024-01-13": 1373
     }
   },
   {
@@ -92,7 +91,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "33.92%",
+    "uptime": "33.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -103,7 +102,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-01": 99,
+      "2025-01-02": 84,
+      "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
@@ -466,8 +466,7 @@
       "2024-01-07": 1440,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
-      "2024-01-04": 1440,
-      "2024-01-03": 1440
+      "2024-01-04": 1440
     }
   },
   {
@@ -481,17 +480,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 930,
-    "timeDay": 1143,
-    "timeWeek": 979,
-    "timeMonth": 893,
+    "time": 931,
+    "timeDay": 884,
+    "timeWeek": 967,
+    "timeMonth": 885,
     "timeYear": 913,
     "dailyMinutesDown": {
       "2024-08-27": 443,
       "2024-08-26": 348,
       "2024-05-29": 18,
-      "2024-04-08": 56,
-      "2024-01-03": 15
+      "2024-04-08": 56
     }
   }
 ]
