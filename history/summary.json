@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 112,
-    "timeDay": 96,
+    "timeDay": 95,
     "timeWeek": 100,
-    "timeMonth": 123,
+    "timeMonth": 124,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2024-09-02": 24,
@@ -27,16 +27,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
     "status": "up",
-    "uptime": "95.99%",
+    "uptime": "96.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.39%",
+    "uptimeYear": "88.67%",
     "time": 1412,
-    "timeDay": 863,
-    "timeWeek": 1346,
-    "timeMonth": 1277,
-    "timeYear": 1378,
+    "timeDay": 997,
+    "timeWeek": 1342,
+    "timeMonth": 1281,
+    "timeYear": 1377,
     "dailyMinutesDown": {
       "2024-05-29": 18,
       "2024-04-08": 56,
@@ -79,8 +79,7 @@
       "2024-01-19": 1440,
       "2024-01-18": 1440,
       "2024-01-17": 1440,
-      "2024-01-16": 1440,
-      "2024-01-15": 1440
+      "2024-01-16": 1440
     }
   },
   {
@@ -89,7 +88,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "33.54%",
+    "uptime": "33.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -100,7 +99,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-13": 97,
+      "2025-01-14": 82,
+      "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
@@ -463,8 +463,7 @@
       "2024-01-19": 1440,
       "2024-01-18": 1440,
       "2024-01-17": 1440,
-      "2024-01-16": 1440,
-      "2024-01-15": 1440
+      "2024-01-16": 1440
     }
   },
   {
@@ -479,10 +478,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 930,
-    "timeDay": 651,
-    "timeWeek": 853,
-    "timeMonth": 900,
-    "timeYear": 908,
+    "timeDay": 731,
+    "timeWeek": 841,
+    "timeMonth": 901,
+    "timeYear": 907,
     "dailyMinutesDown": {
       "2024-08-27": 443,
       "2024-08-26": 348,
