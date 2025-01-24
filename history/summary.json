@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 112,
-    "timeDay": 112,
-    "timeWeek": 94,
-    "timeMonth": 120,
+    "timeDay": 105,
+    "timeWeek": 98,
+    "timeMonth": 121,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2024-09-02": 24,
@@ -27,15 +27,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
     "status": "up",
-    "uptime": "96.03%",
+    "uptime": "96.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.13%",
+    "uptimeYear": "91.41%",
     "time": 1396,
-    "timeDay": 1237,
-    "timeWeek": 1087,
-    "timeMonth": 1278,
+    "timeDay": 1193,
+    "timeWeek": 1133,
+    "timeMonth": 1289,
     "timeYear": 1370,
     "dailyMinutesDown": {
       "2024-05-29": 18,
@@ -69,8 +69,7 @@
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
-      "2024-01-26": 1440,
-      "2024-01-25": 1440
+      "2024-01-26": 1440
     }
   },
   {
@@ -79,7 +78,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "33.23%",
+    "uptime": "33.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -90,7 +89,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-23": 83,
+      "2025-01-24": 83,
+      "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
@@ -453,8 +453,7 @@
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
-      "2024-01-26": 1440,
-      "2024-01-25": 1440
+      "2024-01-26": 1440
     }
   },
   {
@@ -469,9 +468,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 919,
-    "timeDay": 1028,
-    "timeWeek": 869,
-    "timeMonth": 881,
+    "timeDay": 1017,
+    "timeWeek": 921,
+    "timeMonth": 891,
     "timeYear": 905,
     "dailyMinutesDown": {
       "2024-08-27": 443,
