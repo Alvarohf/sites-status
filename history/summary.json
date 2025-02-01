@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 111,
-    "timeDay": 75,
-    "timeWeek": 103,
-    "timeMonth": 99,
+    "timeDay": 73,
+    "timeWeek": 96,
+    "timeMonth": 98,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2024-09-02": 24,
@@ -31,12 +31,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.32%",
-    "time": 1395,
-    "timeDay": 892,
-    "timeWeek": 1061,
-    "timeMonth": 1187,
-    "timeYear": 1364,
+    "uptimeYear": "93.60%",
+    "time": 1394,
+    "timeDay": 832,
+    "timeWeek": 1030,
+    "timeMonth": 1172,
+    "timeYear": 1362,
     "dailyMinutesDown": {
       "2024-05-29": 18,
       "2024-04-08": 56,
@@ -61,8 +61,7 @@
       "2024-02-06": 1440,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
-      "2024-02-03": 1440,
-      "2024-02-02": 1440
+      "2024-02-03": 1440
     }
   },
   {
@@ -71,7 +70,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "32.99%",
+    "uptime": "32.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -82,7 +81,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-31": 83,
+      "2025-02-01": 95,
+      "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
@@ -445,8 +445,7 @@
       "2024-02-06": 1440,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
-      "2024-02-03": 1440,
-      "2024-02-02": 1440
+      "2024-02-03": 1440
     }
   },
   {
@@ -460,11 +459,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 918,
-    "timeDay": 659,
-    "timeWeek": 830,
-    "timeMonth": 867,
-    "timeYear": 903,
+    "time": 917,
+    "timeDay": 669,
+    "timeWeek": 813,
+    "timeMonth": 852,
+    "timeYear": 902,
     "dailyMinutesDown": {
       "2024-08-27": 443,
       "2024-08-26": 348,
