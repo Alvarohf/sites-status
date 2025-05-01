@@ -11,15 +11,14 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 113,
-    "timeDay": 119,
-    "timeWeek": 117,
-    "timeMonth": 107,
-    "timeYear": 115,
+    "timeDay": 81,
+    "timeWeek": 114,
+    "timeMonth": 105,
+    "timeYear": 114,
     "dailyMinutesDown": {
       "2025-04-25": 20,
       "2024-09-02": 24,
-      "2024-08-26": 28,
-      "2024-05-01": 35
+      "2024-08-26": 28
     }
   },
   {
@@ -31,13 +30,13 @@
     "uptime": "96.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.52%",
-    "uptimeMonth": "99.33%",
+    "uptimeMonth": "99.43%",
     "uptimeYear": "99.94%",
     "time": 1341,
-    "timeDay": 1132,
-    "timeWeek": 1461,
-    "timeMonth": 1279,
-    "timeYear": 1296,
+    "timeDay": 1338,
+    "timeWeek": 1489,
+    "timeMonth": 1271,
+    "timeYear": 1297,
     "dailyMinutesDown": {
       "2025-04-28": 250,
       "2025-03-30": 44,
@@ -50,10 +49,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "30.50%",
+    "uptime": "30.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -61,7 +60,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-30": 103,
+      "2025-05-01": 112,
+      "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
@@ -424,8 +424,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   },
   {
@@ -437,13 +436,13 @@
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.53%",
-    "uptimeMonth": "99.33%",
+    "uptimeMonth": "99.43%",
     "uptimeYear": "99.79%",
     "time": 933,
-    "timeDay": 924,
-    "timeWeek": 1824,
-    "timeMonth": 1310,
-    "timeYear": 947,
+    "timeDay": 1159,
+    "timeWeek": 1863,
+    "timeMonth": 1357,
+    "timeYear": 948,
     "dailyMinutesDown": {
       "2025-04-28": 250,
       "2025-03-30": 44,
