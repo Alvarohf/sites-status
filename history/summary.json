@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 81,
-    "timeWeek": 132,
-    "timeMonth": 102,
+    "timeDay": 156,
+    "timeWeek": 131,
+    "timeMonth": 105,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2025-04-25": 20
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
     "status": "up",
-    "uptime": "96.74%",
+    "uptime": "96.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.92%",
     "time": 1304,
-    "timeDay": 1969,
-    "timeWeek": 1521,
-    "timeMonth": 1704,
-    "timeYear": 1288,
+    "timeDay": 1660,
+    "timeWeek": 1652,
+    "timeMonth": 1707,
+    "timeYear": 1290,
     "dailyMinutesDown": {
       "2025-09-20": 26,
       "2025-09-15": 21,
@@ -52,7 +52,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "27.10%",
+    "uptime": "27.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -63,7 +63,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-25": 99,
+      "2025-09-26": 98,
+      "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
@@ -426,8 +427,7 @@
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
-      "2024-09-27": 1440,
-      "2024-09-26": 1440
+      "2024-09-27": 1440
     }
   },
   {
@@ -441,10 +441,10 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.92%",
-    "time": 938,
-    "timeDay": 1133,
-    "timeWeek": 880,
-    "timeMonth": 985,
+    "time": 937,
+    "timeDay": 916,
+    "timeWeek": 895,
+    "timeMonth": 987,
     "timeYear": 939,
     "dailyMinutesDown": {
       "2025-09-20": 25,
