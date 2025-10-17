@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 77,
-    "timeWeek": 99,
-    "timeMonth": 105,
+    "timeDay": 61,
+    "timeWeek": 95,
+    "timeMonth": 104,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2025-04-25": 20
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.90%",
     "time": 1344,
-    "timeDay": 1531,
-    "timeWeek": 1710,
-    "timeMonth": 1606,
-    "timeYear": 1292,
+    "timeDay": 1678,
+    "timeWeek": 1684,
+    "timeMonth": 1611,
+    "timeYear": 1293,
     "dailyMinutesDown": {
       "2025-10-14": 21,
       "2025-10-06": 84,
@@ -54,7 +54,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "26.67%",
+    "uptime": "26.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -65,7 +65,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-16": 101,
+      "2025-10-17": 100,
+      "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
@@ -428,8 +429,7 @@
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
-      "2024-10-18": 1440,
-      "2024-10-17": 1440
+      "2024-10-18": 1440
     }
   },
   {
@@ -444,9 +444,9 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.90%",
     "time": 937,
-    "timeDay": 844,
-    "timeWeek": 862,
-    "timeMonth": 843,
+    "timeDay": 674,
+    "timeWeek": 795,
+    "timeMonth": 842,
     "timeYear": 929,
     "dailyMinutesDown": {
       "2025-10-14": 20,
