@@ -27,9 +27,9 @@
     "slug": "planeta-fascinante",
     "status": "up",
     "uptime": "96.86%",
-    "uptimeDay": "97.02%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "96.62%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "96.64%",
     "uptimeYear": "99.56%",
     "time": 1545,
     "timeDay": 1944,
@@ -37,7 +37,7 @@
     "timeMonth": 1874,
     "timeYear": 1590,
     "dailyMinutesDown": {
-      "2025-12-23": 43,
+      "2025-12-23": 36,
       "2025-12-22": 34,
       "2025-12-20": 18,
       "2025-12-19": 18,
@@ -95,7 +95,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "25.38%",
+    "uptime": "25.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -106,7 +106,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-23": 1430,
+      "2025-12-24": 112,
+      "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -469,8 +470,7 @@
       "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
-      "2024-12-25": 1440,
-      "2024-12-24": 1440
+      "2024-12-25": 1440
     }
   },
   {
@@ -480,9 +480,9 @@
     "slug": "overtips",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "97.05%",
-    "uptimeWeek": "98.01%",
-    "uptimeMonth": "96.61%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "96.63%",
     "uptimeYear": "99.55%",
     "time": 1009,
     "timeDay": 818,
@@ -490,7 +490,7 @@
     "timeMonth": 1189,
     "timeYear": 1030,
     "dailyMinutesDown": {
-      "2025-12-23": 43,
+      "2025-12-23": 36,
       "2025-12-22": 34,
       "2025-12-20": 18,
       "2025-12-19": 18,
