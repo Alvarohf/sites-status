@@ -26,16 +26,16 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "96.24%",
-    "uptimeWeek": "96.36%",
-    "uptimeMonth": "97.74%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "97.31%",
+    "uptimeWeek": "96.65%",
+    "uptimeMonth": "97.82%",
     "uptimeYear": "99.47%",
     "time": 1567,
-    "timeDay": 1469,
-    "timeWeek": 1745,
-    "timeMonth": 1702,
+    "timeDay": 1473,
+    "timeWeek": 1698,
+    "timeMonth": 1704,
     "timeYear": 1617,
     "dailyMinutesDown": {
       "2026-01-17": 38,
@@ -100,8 +100,7 @@
       "2025-10-14": 21,
       "2025-10-06": 84,
       "2025-09-20": 26,
-      "2025-09-15": 21,
-      "2025-09-02": 17
+      "2025-09-15": 21
     }
   },
   {
@@ -110,7 +109,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "24.95%",
+    "uptime": "24.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -121,7 +120,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-17": 672,
+      "2026-01-17": 1018,
       "2026-01-16": 1440,
       "2026-01-15": 1440,
       "2026-01-14": 1440,
@@ -493,16 +492,16 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "96.29%",
-    "uptimeWeek": "96.39%",
-    "uptimeMonth": "97.87%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "96.68%",
+    "uptimeMonth": "97.94%",
+    "uptimeYear": "99.41%",
     "time": 1008,
-    "timeDay": 880,
-    "timeWeek": 1160,
-    "timeMonth": 1043,
+    "timeDay": 896,
+    "timeWeek": 1193,
+    "timeMonth": 1047,
     "timeYear": 1035,
     "dailyMinutesDown": {
       "2026-01-17": 38,
@@ -570,8 +569,7 @@
       "2025-05-22": 15,
       "2025-05-14": 18,
       "2025-05-05": 18,
-      "2025-04-28": 250,
-      "2025-03-30": 44
+      "2025-04-28": 250
     }
   }
 ]
