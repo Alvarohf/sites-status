@@ -26,7 +26,7 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "97.09%",
     "uptimeWeek": "95.72%",
@@ -38,6 +38,7 @@
     "timeMonth": 1702,
     "timeYear": 1627,
     "dailyMinutesDown": {
+      "2026-01-25": 0,
       "2026-01-24": 42,
       "2026-01-23": 72,
       "2026-01-22": 56,
@@ -94,8 +95,7 @@
       "2025-11-22": 20,
       "2025-11-21": 16,
       "2025-11-20": 22,
-      "2025-11-17": 20,
-      "2025-11-14": 18
+      "2025-11-17": 20
     }
   },
   {
@@ -115,7 +115,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 456,
+      "2026-01-25": 578,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
