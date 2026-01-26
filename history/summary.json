@@ -26,17 +26,17 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "96.10%",
-    "uptimeWeek": "95.24%",
+    "uptimeDay": "96.09%",
+    "uptimeWeek": "95.70%",
     "uptimeMonth": "97.04%",
     "uptimeYear": "99.46%",
-    "time": 1558,
-    "timeDay": 432,
-    "timeWeek": 1267,
-    "timeMonth": 1554,
-    "timeYear": 1604,
+    "time": 1557,
+    "timeDay": 332,
+    "timeWeek": 1227,
+    "timeMonth": 1543,
+    "timeYear": 1602,
     "dailyMinutesDown": {
       "2026-01-26": 32,
       "2026-01-25": 40,
@@ -93,8 +93,7 @@
       "2025-11-28": 51,
       "2025-11-25": 190,
       "2025-11-24": 19,
-      "2025-11-22": 20,
-      "2025-11-21": 16
+      "2025-11-22": 20
     }
   },
   {
@@ -103,7 +102,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "24.79%",
+    "uptime": "24.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -114,7 +113,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-26": 748,
+      "2026-01-26": 1197,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
@@ -486,17 +485,17 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "96.10%",
-    "uptimeWeek": "94.63%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "95.09%",
     "uptimeMonth": "97.01%",
     "uptimeYear": "99.44%",
     "time": 999,
-    "timeDay": 354,
-    "timeWeek": 836,
-    "timeMonth": 961,
-    "timeYear": 1023,
+    "timeDay": 217,
+    "timeWeek": 824,
+    "timeMonth": 957,
+    "timeYear": 1022,
     "dailyMinutesDown": {
       "2026-01-26": 32,
       "2026-01-25": 56,
@@ -554,8 +553,7 @@
       "2025-11-24": 19,
       "2025-11-22": 20,
       "2025-11-21": 15,
-      "2025-11-20": 73,
-      "2025-11-14": 17
+      "2025-11-20": 73
     }
   }
 ]
