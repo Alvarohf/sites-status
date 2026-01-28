@@ -26,18 +26,19 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "97.76%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "96.73%",
-    "uptimeMonth": "97.04%",
-    "uptimeYear": "99.45%",
-    "time": 1554,
-    "timeDay": 921,
-    "timeWeek": 1133,
-    "timeMonth": 1528,
-    "timeYear": 1599,
+    "uptimeMonth": "97.09%",
+    "uptimeYear": "99.48%",
+    "time": 1553,
+    "timeDay": 804,
+    "timeWeek": 1108,
+    "timeMonth": 1514,
+    "timeYear": 1597,
     "dailyMinutesDown": {
+      "2026-01-28": 0,
       "2026-01-27": 32,
       "2026-01-26": 55,
       "2026-01-25": 40,
@@ -92,8 +93,7 @@
       "2025-11-30": 61,
       "2025-11-29": 54,
       "2025-11-28": 51,
-      "2025-11-25": 190,
-      "2025-11-24": 19
+      "2025-11-25": 81
     }
   },
   {
@@ -113,7 +113,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-28": 120,
+      "2026-01-28": 469,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
@@ -485,18 +485,19 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "97.76%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "96.11%",
-    "uptimeMonth": "97.01%",
-    "uptimeYear": "99.43%",
+    "uptimeMonth": "97.06%",
+    "uptimeYear": "99.44%",
     "time": 993,
-    "timeDay": 292,
-    "timeWeek": 666,
-    "timeMonth": 917,
-    "timeYear": 1013,
+    "timeDay": 290,
+    "timeWeek": 652,
+    "timeMonth": 910,
+    "timeYear": 1011,
     "dailyMinutesDown": {
+      "2026-01-28": 0,
       "2026-01-27": 32,
       "2026-01-26": 55,
       "2026-01-25": 56,
@@ -554,7 +555,7 @@
       "2025-11-24": 19,
       "2025-11-22": 20,
       "2025-11-21": 15,
-      "2025-11-20": 44
+      "2025-11-20": 28
     }
   }
 ]
