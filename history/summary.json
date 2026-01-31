@@ -11,9 +11,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 119,
-    "timeDay": 131,
-    "timeWeek": 112,
-    "timeMonth": 123,
+    "timeDay": 119,
+    "timeWeek": 111,
+    "timeMonth": 124,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2026-01-05": 31,
@@ -26,17 +26,17 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "90.58%",
+    "uptimeDay": "92.50%",
     "uptimeWeek": "94.15%",
     "uptimeMonth": "96.24%",
     "uptimeYear": "99.43%",
-    "time": 1530,
-    "timeDay": 1026,
-    "timeWeek": 935,
-    "timeMonth": 1411,
-    "timeYear": 1577,
+    "time": 1527,
+    "timeDay": 968,
+    "timeWeek": 874,
+    "timeMonth": 1402,
+    "timeYear": 1576,
     "dailyMinutesDown": {
       "2026-01-31": 107,
       "2026-01-30": 254,
@@ -93,7 +93,7 @@
       "2025-12-03": 61,
       "2025-12-02": 65,
       "2025-12-01": 22,
-      "2025-11-30": 42
+      "2025-11-30": 21
     }
   },
   {
@@ -113,7 +113,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-31": 1248,
+      "2026-01-31": 1418,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -485,16 +485,16 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "90.57%",
+    "uptimeDay": "92.49%",
     "uptimeWeek": "93.98%",
     "uptimeMonth": "96.18%",
     "uptimeYear": "99.43%",
-    "time": 970,
-    "timeDay": 433,
-    "timeWeek": 366,
-    "timeMonth": 798,
+    "time": 969,
+    "timeDay": 416,
+    "timeWeek": 351,
+    "timeMonth": 795,
     "timeYear": 988,
     "dailyMinutesDown": {
       "2026-01-31": 107,
@@ -551,7 +551,7 @@
       "2025-12-03": 60,
       "2025-12-02": 65,
       "2025-12-01": 22,
-      "2025-11-30": 61
+      "2025-11-30": 42
     }
   }
 ]
