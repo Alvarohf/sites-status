@@ -26,17 +26,17 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "85.71%",
-    "uptimeWeek": "91.17%",
+    "uptimeDay": "92.85%",
+    "uptimeWeek": "91.49%",
     "uptimeMonth": "95.37%",
-    "uptimeYear": "99.39%",
-    "time": 1515,
-    "timeDay": 996,
-    "timeWeek": 977,
-    "timeMonth": 1340,
-    "timeYear": 1560,
+    "uptimeYear": "99.40%",
+    "time": 1513,
+    "timeDay": 844,
+    "timeWeek": 970,
+    "timeMonth": 1330,
+    "timeYear": 1558,
     "dailyMinutesDown": {
       "2026-02-03": 84,
       "2026-02-02": 287,
@@ -92,7 +92,7 @@
       "2025-12-07": 63,
       "2025-12-06": 61,
       "2025-12-05": 17,
-      "2025-12-04": 115
+      "2025-12-04": 64
     }
   },
   {
@@ -101,7 +101,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "24.66%",
+    "uptime": "24.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -112,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-03": 306,
+      "2026-02-03": 1361,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
@@ -484,17 +484,17 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "85.71%",
-    "uptimeWeek": "91.17%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "92.84%",
+    "uptimeWeek": "91.49%",
     "uptimeMonth": "95.28%",
     "uptimeYear": "99.39%",
-    "time": 956,
-    "timeDay": 322,
-    "timeWeek": 351,
-    "timeMonth": 726,
-    "timeYear": 968,
+    "time": 955,
+    "timeDay": 410,
+    "timeWeek": 353,
+    "timeMonth": 721,
+    "timeYear": 967,
     "dailyMinutesDown": {
       "2026-02-03": 84,
       "2026-02-02": 287,
@@ -549,8 +549,7 @@
       "2025-12-07": 61,
       "2025-12-06": 44,
       "2025-12-05": 17,
-      "2025-12-04": 115,
-      "2025-12-03": 22
+      "2025-12-04": 115
     }
   }
 ]
