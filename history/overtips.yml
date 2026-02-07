@@ -1,7 +1,7 @@
 url: https://overtips.es
-status: up
-code: 200
-responseTime: 171
-lastUpdated: 2026-02-07T09:14:57.814Z
+status: down
+code: 403
+responseTime: 220
+lastUpdated: 2026-02-07T13:51:59.825Z
 startTime: 2022-08-10T23:33:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
