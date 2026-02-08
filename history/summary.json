@@ -26,18 +26,19 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "85.96%",
+    "uptimeDay": "89.91%",
     "uptimeWeek": "82.64%",
     "uptimeMonth": "92.41%",
     "uptimeYear": "99.17%",
-    "time": 1501,
-    "timeDay": 978,
-    "timeWeek": 993,
-    "timeMonth": 1265,
-    "timeYear": 1545,
+    "time": 1500,
+    "timeDay": 972,
+    "timeWeek": 976,
+    "timeMonth": 1258,
+    "timeYear": 1544,
     "dailyMinutesDown": {
+      "2026-02-08": 0,
       "2026-02-07": 202,
       "2026-02-06": 40,
       "2026-02-04": 1071,
@@ -92,7 +93,7 @@
       "2025-12-10": 56,
       "2025-12-09": 113,
       "2025-12-08": 78,
-      "2025-12-07": 44
+      "2025-12-07": 27
     }
   },
   {
@@ -101,7 +102,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "24.58%",
+    "uptime": "24.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -112,7 +113,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-08": 167,
+      "2026-02-08": 292,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
@@ -484,18 +485,19 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "85.96%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "89.91%",
     "uptimeWeek": "90.09%",
     "uptimeMonth": "93.99%",
     "uptimeYear": "99.32%",
     "time": 937,
-    "timeDay": 320,
-    "timeWeek": 313,
-    "timeMonth": 644,
-    "timeYear": 946,
+    "timeDay": 309,
+    "timeWeek": 309,
+    "timeMonth": 641,
+    "timeYear": 945,
     "dailyMinutesDown": {
+      "2026-02-08": 0,
       "2026-02-07": 202,
       "2026-02-06": 40,
       "2026-02-04": 320,
@@ -548,8 +550,7 @@
       "2025-12-11": 39,
       "2025-12-10": 56,
       "2025-12-09": 113,
-      "2025-12-08": 77,
-      "2025-12-07": 26
+      "2025-12-08": 77
     }
   }
 ]
