@@ -26,18 +26,19 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "88.93%",
-    "uptimeWeek": "82.58%",
-    "uptimeMonth": "92.31%",
-    "uptimeYear": "99.16%",
-    "time": 1500,
-    "timeDay": 1051,
-    "timeWeek": 995,
-    "timeMonth": 1233,
-    "timeYear": 1539,
+    "uptimeDay": "93.13%",
+    "uptimeWeek": "83.60%",
+    "uptimeMonth": "92.40%",
+    "uptimeYear": "99.17%",
+    "time": 1499,
+    "timeDay": 1027,
+    "timeWeek": 988,
+    "timeMonth": 1225,
+    "timeYear": 1537,
     "dailyMinutesDown": {
+      "2026-02-09": 0,
       "2026-02-08": 160,
       "2026-02-07": 202,
       "2026-02-06": 40,
@@ -91,8 +92,7 @@
       "2025-12-12": 18,
       "2025-12-11": 41,
       "2025-12-10": 56,
-      "2025-12-09": 113,
-      "2025-12-08": 4
+      "2025-12-09": 56
     }
   },
   {
@@ -112,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-09": 152,
+      "2026-02-09": 509,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
@@ -484,18 +484,19 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "88.93%",
-    "uptimeWeek": "90.03%",
-    "uptimeMonth": "93.90%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "93.12%",
+    "uptimeWeek": "91.05%",
+    "uptimeMonth": "93.98%",
     "uptimeYear": "99.32%",
     "time": 929,
-    "timeDay": 255,
-    "timeWeek": 291,
-    "timeMonth": 611,
-    "timeYear": 936,
+    "timeDay": 258,
+    "timeWeek": 297,
+    "timeMonth": 607,
+    "timeYear": 935,
     "dailyMinutesDown": {
+      "2026-02-09": 0,
       "2026-02-08": 160,
       "2026-02-07": 202,
       "2026-02-06": 40,
@@ -548,7 +549,7 @@
       "2025-12-12": 18,
       "2025-12-11": 39,
       "2025-12-10": 56,
-      "2025-12-09": 56
+      "2025-12-09": 24
     }
   }
 ]
