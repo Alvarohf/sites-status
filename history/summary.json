@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 119,
-    "timeDay": 77,
-    "timeWeek": 105,
-    "timeMonth": 113,
+    "timeDay": 144,
+    "timeWeek": 108,
+    "timeMonth": 115,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2026-01-05": 31,
@@ -26,17 +26,17 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "81.45%",
-    "uptimeWeek": "79.61%",
+    "uptimeDay": "82.74%",
+    "uptimeWeek": "80.03%",
     "uptimeMonth": "91.27%",
     "uptimeYear": "99.11%",
-    "time": 1494,
-    "timeDay": 1134,
-    "timeWeek": 1014,
-    "timeMonth": 1182,
-    "timeYear": 1526,
+    "time": 1493,
+    "timeDay": 1025,
+    "timeWeek": 1033,
+    "timeMonth": 1176,
+    "timeYear": 1525,
     "dailyMinutesDown": {
       "2026-02-10": 248,
       "2026-02-09": 292,
@@ -88,7 +88,7 @@
       "2025-12-17": 73,
       "2025-12-16": 17,
       "2025-12-15": 117,
-      "2025-12-14": 38
+      "2025-12-14": 1
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-10": 1345,
+      "2026-02-10": 1430,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
@@ -480,17 +480,17 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "81.45%",
-    "uptimeWeek": "87.06%",
+    "uptimeDay": "82.73%",
+    "uptimeWeek": "87.48%",
     "uptimeMonth": "92.85%",
-    "uptimeYear": "99.26%",
-    "time": 919,
-    "timeDay": 339,
-    "timeWeek": 301,
-    "timeMonth": 572,
-    "timeYear": 921,
+    "uptimeYear": "99.28%",
+    "time": 922,
+    "timeDay": 661,
+    "timeWeek": 378,
+    "timeMonth": 587,
+    "timeYear": 925,
     "dailyMinutesDown": {
       "2026-02-10": 248,
       "2026-02-09": 292,
@@ -540,8 +540,7 @@
       "2025-12-18": 15,
       "2025-12-17": 73,
       "2025-12-16": 17,
-      "2025-12-15": 117,
-      "2025-12-14": 1
+      "2025-12-15": 15
     }
   }
 ]
