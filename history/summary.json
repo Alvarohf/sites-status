@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 119,
-    "timeDay": 163,
-    "timeWeek": 133,
-    "timeMonth": 122,
+    "timeDay": 132,
+    "timeWeek": 129,
+    "timeMonth": 118,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2026-01-05": 31,
@@ -26,17 +26,17 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "91.27%",
-    "uptimeWeek": "85.38%",
+    "uptimeDay": "91.26%",
+    "uptimeWeek": "86.11%",
     "uptimeMonth": "90.21%",
     "uptimeYear": "99.04%",
-    "time": 1466,
-    "timeDay": 926,
-    "timeWeek": 996,
-    "timeMonth": 1098,
-    "timeYear": 1509,
+    "time": 1465,
+    "timeDay": 859,
+    "timeWeek": 987,
+    "timeMonth": 1091,
+    "timeYear": 1508,
     "dailyMinutesDown": {
       "2026-02-14": 126,
       "2026-02-13": 42,
@@ -83,8 +83,7 @@
       "2025-12-28": 65,
       "2025-12-27": 38,
       "2025-12-26": 40,
-      "2025-12-24": 33,
-      "2025-12-23": 36
+      "2025-12-24": 33
     }
   },
   {
@@ -93,7 +92,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "24.47%",
+    "uptime": "24.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -104,7 +103,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-14": 706,
+      "2026-02-14": 1398,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
@@ -476,17 +475,17 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "91.27%",
-    "uptimeWeek": "85.38%",
+    "uptimeDay": "91.25%",
+    "uptimeWeek": "86.10%",
     "uptimeMonth": "91.79%",
     "uptimeYear": "99.19%",
-    "time": 902,
-    "timeDay": 439,
-    "timeWeek": 391,
-    "timeMonth": 514,
-    "timeYear": 907,
+    "time": 901,
+    "timeDay": 414,
+    "timeWeek": 400,
+    "timeMonth": 510,
+    "timeYear": 906,
     "dailyMinutesDown": {
       "2026-02-14": 126,
       "2026-02-13": 42,
@@ -532,7 +531,7 @@
       "2025-12-28": 50,
       "2025-12-27": 36,
       "2025-12-26": 40,
-      "2025-12-24": 32
+      "2025-12-24": 17
     }
   }
 ]
