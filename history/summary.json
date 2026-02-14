@@ -28,17 +28,17 @@
     "slug": "planeta-fascinante",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "94.69%",
-    "uptimeWeek": "86.03%",
-    "uptimeMonth": "90.42%",
-    "uptimeYear": "99.05%",
-    "time": 1472,
-    "timeDay": 865,
-    "timeWeek": 997,
-    "timeMonth": 1102,
-    "timeYear": 1512,
+    "uptimeDay": "92.03%",
+    "uptimeWeek": "85.77%",
+    "uptimeMonth": "90.33%",
+    "uptimeYear": "99.04%",
+    "time": 1470,
+    "timeDay": 852,
+    "timeWeek": 1002,
+    "timeMonth": 1099,
+    "timeYear": 1511,
     "dailyMinutesDown": {
-      "2026-02-14": 35,
+      "2026-02-14": 73,
       "2026-02-13": 42,
       "2026-02-12": 86,
       "2026-02-11": 436,
@@ -85,7 +85,7 @@
       "2025-12-26": 40,
       "2025-12-24": 33,
       "2025-12-23": 36,
-      "2025-12-22": 34
+      "2025-12-22": 18
     }
   },
   {
@@ -105,7 +105,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-14": 481,
+      "2026-02-14": 542,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
@@ -479,17 +479,17 @@
     "slug": "overtips",
     "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "94.68%",
-    "uptimeWeek": "86.03%",
-    "uptimeMonth": "92.00%",
+    "uptimeDay": "92.02%",
+    "uptimeWeek": "85.77%",
+    "uptimeMonth": "91.91%",
     "uptimeYear": "99.19%",
-    "time": 905,
-    "timeDay": 420,
-    "timeWeek": 387,
+    "time": 904,
+    "timeDay": 430,
+    "timeWeek": 392,
     "timeMonth": 518,
-    "timeYear": 910,
+    "timeYear": 909,
     "dailyMinutesDown": {
-      "2026-02-14": 35,
+      "2026-02-14": 73,
       "2026-02-13": 42,
       "2026-02-12": 86,
       "2026-02-11": 437,
@@ -534,8 +534,7 @@
       "2025-12-27": 36,
       "2025-12-26": 40,
       "2025-12-24": 32,
-      "2025-12-23": 36,
-      "2025-12-22": 18
+      "2025-12-23": 36
     }
   }
 ]
