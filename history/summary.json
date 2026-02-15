@@ -26,17 +26,17 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "85.50%",
-    "uptimeWeek": "85.28%",
-    "uptimeMonth": "90.02%",
+    "uptimeDay": "87.89%",
+    "uptimeWeek": "85.88%",
+    "uptimeMonth": "90.07%",
     "uptimeYear": "99.03%",
-    "time": 1466,
-    "timeDay": 879,
-    "timeWeek": 989,
-    "timeMonth": 1092,
-    "timeYear": 1507,
+    "time": 1465,
+    "timeDay": 785,
+    "timeWeek": 982,
+    "timeMonth": 1084,
+    "timeYear": 1505,
     "dailyMinutesDown": {
       "2026-02-15": 78,
       "2026-02-14": 131,
@@ -84,7 +84,7 @@
       "2025-12-28": 65,
       "2025-12-27": 38,
       "2025-12-26": 40,
-      "2025-12-24": 33
+      "2025-12-24": 17
     }
   },
   {
@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-15": 154,
+      "2026-02-15": 480,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
@@ -476,17 +476,17 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "85.50%",
-    "uptimeWeek": "85.28%",
-    "uptimeMonth": "91.60%",
-    "uptimeYear": "99.17%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "87.88%",
+    "uptimeWeek": "85.88%",
+    "uptimeMonth": "91.65%",
+    "uptimeYear": "99.18%",
     "time": 899,
-    "timeDay": 373,
-    "timeWeek": 392,
-    "timeMonth": 508,
-    "timeYear": 904,
+    "timeDay": 298,
+    "timeWeek": 395,
+    "timeMonth": 486,
+    "timeYear": 903,
     "dailyMinutesDown": {
       "2026-02-15": 78,
       "2026-02-14": 131,
@@ -532,8 +532,7 @@
       "2025-12-29": 22,
       "2025-12-28": 50,
       "2025-12-27": 36,
-      "2025-12-26": 40,
-      "2025-12-24": 17
+      "2025-12-26": 40
     }
   }
 ]
