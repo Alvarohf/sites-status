@@ -26,17 +26,17 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "87.86%",
+    "uptimeDay": "90.51%",
     "uptimeWeek": "85.51%",
     "uptimeMonth": "89.98%",
-    "uptimeYear": "99.02%",
+    "uptimeYear": "99.03%",
     "time": 1465,
-    "timeDay": 892,
-    "timeWeek": 988,
-    "timeMonth": 1086,
-    "timeYear": 1505,
+    "timeDay": 767,
+    "timeWeek": 987,
+    "timeMonth": 1081,
+    "timeYear": 1503,
     "dailyMinutesDown": {
       "2026-02-15": 116,
       "2026-02-14": 131,
@@ -83,8 +83,7 @@
       "2025-12-29": 22,
       "2025-12-28": 65,
       "2025-12-27": 38,
-      "2025-12-26": 40,
-      "2025-12-24": 17
+      "2025-12-26": 40
     }
   },
   {
@@ -93,7 +92,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "24.46%",
+    "uptime": "24.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -104,7 +103,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-15": 518,
+      "2026-02-15": 598,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
@@ -476,17 +475,17 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "87.86%",
+    "uptimeDay": "90.49%",
     "uptimeWeek": "85.51%",
     "uptimeMonth": "91.56%",
     "uptimeYear": "99.17%",
     "time": 898,
-    "timeDay": 348,
-    "timeWeek": 399,
-    "timeMonth": 487,
-    "timeYear": 903,
+    "timeDay": 316,
+    "timeWeek": 401,
+    "timeMonth": 486,
+    "timeYear": 902,
     "dailyMinutesDown": {
       "2026-02-15": 116,
       "2026-02-14": 131,
@@ -532,7 +531,7 @@
       "2025-12-29": 22,
       "2025-12-28": 50,
       "2025-12-27": 36,
-      "2025-12-26": 40
+      "2025-12-26": 18
     }
   }
 ]
