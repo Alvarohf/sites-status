@@ -26,17 +26,17 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "95.61%",
-    "uptimeWeek": "92.76%",
-    "uptimeMonth": "88.96%",
-    "uptimeYear": "98.88%",
-    "time": 1416,
-    "timeDay": 988,
-    "timeWeek": 968,
-    "timeMonth": 972,
-    "timeYear": 1446,
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "95.60%",
+    "uptimeWeek": "92.81%",
+    "uptimeMonth": "89.04%",
+    "uptimeYear": "98.89%",
+    "time": 1415,
+    "timeDay": 823,
+    "timeWeek": 932,
+    "timeMonth": 969,
+    "timeYear": 1444,
     "dailyMinutesDown": {
       "2026-03-02": 63,
       "2026-03-01": 22,
@@ -76,8 +76,7 @@
       "2026-01-25": 40,
       "2026-01-24": 42,
       "2026-01-23": 72,
-      "2026-01-22": 56,
-      "2026-01-21": 32
+      "2026-01-22": 56
     }
   },
   {
@@ -97,7 +96,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-02": 868,
+      "2026-03-02": 1115,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
@@ -469,17 +468,17 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "95.61%",
-    "uptimeWeek": "92.75%",
-    "uptimeMonth": "90.67%",
-    "uptimeYear": "99.03%",
+    "uptimeDay": "95.58%",
+    "uptimeWeek": "92.81%",
+    "uptimeMonth": "90.75%",
+    "uptimeYear": "99.04%",
     "time": 838,
-    "timeDay": 247,
-    "timeWeek": 366,
-    "timeMonth": 323,
-    "timeYear": 831,
+    "timeDay": 239,
+    "timeWeek": 356,
+    "timeMonth": 324,
+    "timeYear": 830,
     "dailyMinutesDown": {
       "2026-03-02": 63,
       "2026-03-01": 22,
@@ -518,7 +517,7 @@
       "2026-01-26": 55,
       "2026-01-25": 56,
       "2026-01-24": 61,
-      "2026-01-23": 80
+      "2026-01-23": 29
     }
   }
 ]
