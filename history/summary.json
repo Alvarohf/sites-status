@@ -26,17 +26,17 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "92.78%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "92.77%",
     "uptimeMonth": "89.06%",
-    "uptimeYear": "98.88%",
+    "uptimeYear": "98.89%",
     "time": 1416,
-    "timeDay": 1059,
-    "timeWeek": 957,
-    "timeMonth": 974,
-    "timeYear": 1447,
+    "timeDay": 924,
+    "timeWeek": 940,
+    "timeMonth": 970,
+    "timeYear": 1446,
     "dailyMinutesDown": {
       "2026-03-02": 19,
       "2026-03-01": 22,
@@ -77,8 +77,7 @@
       "2026-01-24": 42,
       "2026-01-23": 72,
       "2026-01-22": 56,
-      "2026-01-21": 32,
-      "2026-01-20": 31
+      "2026-01-21": 32
     }
   },
   {
@@ -87,7 +86,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "24.21%",
+    "uptime": "24.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -98,7 +97,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-02": 716,
+      "2026-03-02": 824,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
@@ -470,17 +469,17 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "98.68%",
+    "uptimeDay": "98.66%",
     "uptimeWeek": "92.77%",
     "uptimeMonth": "90.77%",
     "uptimeYear": "99.04%",
-    "time": 840,
-    "timeDay": 287,
-    "timeWeek": 371,
+    "time": 839,
+    "timeDay": 274,
+    "timeWeek": 367,
     "timeMonth": 325,
-    "timeYear": 833,
+    "timeYear": 832,
     "dailyMinutesDown": {
       "2026-03-02": 19,
       "2026-03-01": 22,
@@ -519,7 +518,7 @@
       "2026-01-26": 55,
       "2026-01-25": 56,
       "2026-01-24": 61,
-      "2026-01-23": 101
+      "2026-01-23": 80
     }
   }
 ]
