@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 120,
-    "timeDay": 132,
+    "timeDay": 89,
     "timeWeek": 170,
-    "timeMonth": 126,
+    "timeMonth": 125,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2026-01-05": 31,
@@ -26,16 +26,16 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "74.65%",
-    "uptimeWeek": "89.63%",
-    "uptimeMonth": "88.54%",
+    "uptimeDay": "83.25%",
+    "uptimeWeek": "90.59%",
+    "uptimeMonth": "88.64%",
     "uptimeYear": "98.85%",
-    "time": 1407,
-    "timeDay": 853,
-    "timeWeek": 920,
-    "timeMonth": 965,
+    "time": 1401,
+    "timeDay": 896,
+    "timeWeek": 919,
+    "timeMonth": 972,
     "timeYear": 1438,
     "dailyMinutesDown": {
       "2026-03-03": 241,
@@ -75,7 +75,7 @@
       "2026-01-27": 32,
       "2026-01-26": 55,
       "2026-01-25": 40,
-      "2026-01-24": 42
+      "2026-01-24": 25
     }
   },
   {
@@ -84,7 +84,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "24.19%",
+    "uptime": "24.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -95,7 +95,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-03": 719,
+      "2026-03-03": 1424,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
@@ -467,16 +467,16 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "74.65%",
-    "uptimeWeek": "89.63%",
-    "uptimeMonth": "90.25%",
+    "uptimeDay": "83.24%",
+    "uptimeWeek": "90.58%",
+    "uptimeMonth": "90.35%",
     "uptimeYear": "99.00%",
-    "time": 831,
-    "timeDay": 248,
-    "timeWeek": 330,
-    "timeMonth": 318,
+    "time": 827,
+    "timeDay": 279,
+    "timeWeek": 347,
+    "timeMonth": 322,
     "timeYear": 822,
     "dailyMinutesDown": {
       "2026-03-03": 241,
@@ -515,7 +515,7 @@
       "2026-01-28": 59,
       "2026-01-27": 32,
       "2026-01-26": 55,
-      "2026-01-25": 56
+      "2026-01-25": 40
     }
   }
 ]
