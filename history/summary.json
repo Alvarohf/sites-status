@@ -26,17 +26,17 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "93.90%",
-    "uptimeWeek": "92.90%",
-    "uptimeMonth": "91.21%",
-    "uptimeYear": "98.84%",
-    "time": 1392,
-    "timeDay": 962,
-    "timeWeek": 1040,
-    "timeMonth": 978,
-    "timeYear": 1421,
+    "uptimeDay": "93.89%",
+    "uptimeWeek": "93.08%",
+    "uptimeMonth": "91.35%",
+    "uptimeYear": "98.87%",
+    "time": 1391,
+    "timeDay": 860,
+    "timeWeek": 1030,
+    "timeMonth": 974,
+    "timeYear": 1419,
     "dailyMinutesDown": {
       "2026-03-10": 30,
       "2026-03-09": 163,
@@ -72,8 +72,7 @@
       "2026-02-06": 40,
       "2026-02-04": 1071,
       "2026-02-03": 126,
-      "2026-02-02": 287,
-      "2026-02-01": 1
+      "2026-02-02": 158
     }
   },
   {
@@ -93,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-10": 481,
+      "2026-03-10": 821,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
@@ -465,17 +464,17 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "93.90%",
-    "uptimeWeek": "92.90%",
-    "uptimeMonth": "91.20%",
-    "uptimeYear": "99.01%",
-    "time": 802,
-    "timeDay": 268,
-    "timeWeek": 285,
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "93.88%",
+    "uptimeWeek": "93.08%",
+    "uptimeMonth": "91.35%",
+    "uptimeYear": "99.02%",
+    "time": 801,
+    "timeDay": 253,
+    "timeWeek": 287,
     "timeMonth": 318,
-    "timeYear": 794,
+    "timeYear": 793,
     "dailyMinutesDown": {
       "2026-03-10": 30,
       "2026-03-09": 164,
@@ -511,7 +510,7 @@
       "2026-02-06": 40,
       "2026-02-04": 320,
       "2026-02-03": 126,
-      "2026-02-02": 158
+      "2026-02-02": 82
     }
   }
 ]
