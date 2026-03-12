@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 120,
-    "timeDay": 107,
-    "timeWeek": 135,
+    "timeDay": 120,
+    "timeWeek": 133,
     "timeMonth": 126,
-    "timeYear": 124,
+    "timeYear": 123,
     "dailyMinutesDown": {
       "2026-01-05": 31,
       "2025-12-22": 41,
@@ -26,17 +26,17 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "81.30%",
+    "uptimeDay": "93.01%",
     "uptimeWeek": "89.36%",
-    "uptimeMonth": "91.28%",
-    "uptimeYear": "99.01%",
+    "uptimeMonth": "91.41%",
+    "uptimeYear": "99.02%",
     "time": 1394,
-    "timeDay": 1228,
-    "timeWeek": 1188,
-    "timeMonth": 1014,
-    "timeYear": 1419,
+    "timeDay": 785,
+    "timeWeek": 1169,
+    "timeMonth": 1012,
+    "timeYear": 1417,
     "dailyMinutesDown": {
       "2026-03-12": 84,
       "2026-03-11": 323,
@@ -70,7 +70,7 @@
       "2026-02-10": 258,
       "2026-02-09": 292,
       "2026-02-08": 160,
-      "2026-02-07": 202
+      "2026-02-07": 137
     }
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-12": 667,
+      "2026-03-12": 1401,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -462,16 +462,16 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "81.30%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "93.00%",
     "uptimeWeek": "89.36%",
-    "uptimeMonth": "91.28%",
-    "uptimeYear": "99.01%",
-    "time": 802,
-    "timeDay": 305,
-    "timeWeek": 297,
-    "timeMonth": 300,
+    "uptimeMonth": "91.41%",
+    "uptimeYear": "99.02%",
+    "time": 799,
+    "timeDay": 268,
+    "timeWeek": 294,
+    "timeMonth": 294,
     "timeYear": 782,
     "dailyMinutesDown": {
       "2026-03-12": 84,
@@ -506,7 +506,7 @@
       "2026-02-10": 258,
       "2026-02-09": 292,
       "2026-02-08": 160,
-      "2026-02-07": 202
+      "2026-02-07": 137
     }
   }
 ]
