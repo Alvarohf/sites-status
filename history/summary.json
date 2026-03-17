@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 120,
-    "timeDay": 78,
+    "timeDay": 113,
     "timeWeek": 96,
     "timeMonth": 124,
     "timeYear": 123,
@@ -26,17 +26,17 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "88.33%",
+    "uptimeDay": "88.32%",
     "uptimeWeek": "85.54%",
     "uptimeMonth": "90.57%",
-    "uptimeYear": "99.06%",
-    "time": 1372,
-    "timeDay": 1042,
-    "timeWeek": 1042,
-    "timeMonth": 1017,
-    "timeYear": 1396,
+    "uptimeYear": "99.07%",
+    "time": 1370,
+    "timeDay": 754,
+    "timeWeek": 1019,
+    "timeMonth": 1011,
+    "timeYear": 1395,
     "dailyMinutesDown": {
       "2026-03-17": 168,
       "2026-03-16": 210,
@@ -70,8 +70,7 @@
       "2026-02-15": 199,
       "2026-02-14": 131,
       "2026-02-13": 42,
-      "2026-02-12": 86,
-      "2026-02-11": 58
+      "2026-02-12": 86
     }
   },
   {
@@ -91,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-17": 1399,
+      "2026-03-17": 1407,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
@@ -463,17 +462,17 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "88.33%",
-    "uptimeWeek": "85.54%",
+    "uptimeDay": "88.31%",
+    "uptimeWeek": "85.53%",
     "uptimeMonth": "90.57%",
-    "uptimeYear": "99.06%",
+    "uptimeYear": "99.07%",
     "time": 777,
-    "timeDay": 303,
-    "timeWeek": 372,
+    "timeDay": 287,
+    "timeWeek": 362,
     "timeMonth": 312,
-    "timeYear": 763,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2026-03-17": 168,
       "2026-03-16": 210,
@@ -507,8 +506,7 @@
       "2026-02-15": 199,
       "2026-02-14": 131,
       "2026-02-13": 42,
-      "2026-02-12": 86,
-      "2026-02-11": 58
+      "2026-02-12": 86
     }
   }
 ]
