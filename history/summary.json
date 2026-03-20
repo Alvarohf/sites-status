@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 120,
-    "timeDay": 140,
-    "timeWeek": 111,
+    "timeDay": 96,
+    "timeWeek": 114,
     "timeMonth": 130,
-    "timeYear": 123,
+    "timeYear": 122,
     "dailyMinutesDown": {
       "2026-01-05": 31,
       "2025-12-22": 41,
@@ -26,17 +26,17 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "88.07%",
-    "uptimeWeek": "87.01%",
+    "uptimeDay": "88.06%",
+    "uptimeWeek": "87.38%",
     "uptimeMonth": "90.34%",
-    "uptimeYear": "99.02%",
-    "time": 1369,
-    "timeDay": 1558,
-    "timeWeek": 1025,
-    "timeMonth": 1036,
-    "timeYear": 1394,
+    "uptimeYear": "99.03%",
+    "time": 1368,
+    "timeDay": 1126,
+    "timeWeek": 1051,
+    "timeMonth": 1040,
+    "timeYear": 1395,
     "dailyMinutesDown": {
       "2026-03-20": 172,
       "2026-03-19": 91,
@@ -71,7 +71,7 @@
       "2026-02-17": 54,
       "2026-02-16": 228,
       "2026-02-15": 199,
-      "2026-02-14": 58
+      "2026-02-14": 21
     }
   },
   {
@@ -91,7 +91,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-20": 1315,
+      "2026-03-20": 1438,
       "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
@@ -463,16 +463,16 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "88.07%",
-    "uptimeWeek": "87.01%",
+    "uptimeDay": "88.06%",
+    "uptimeWeek": "87.37%",
     "uptimeMonth": "90.33%",
-    "uptimeYear": "99.02%",
+    "uptimeYear": "99.03%",
     "time": 769,
-    "timeDay": 204,
-    "timeWeek": 296,
-    "timeMonth": 319,
+    "timeDay": 321,
+    "timeWeek": 307,
+    "timeMonth": 323,
     "timeYear": 754,
     "dailyMinutesDown": {
       "2026-03-20": 172,
@@ -508,7 +508,7 @@
       "2026-02-17": 54,
       "2026-02-16": 228,
       "2026-02-15": 199,
-      "2026-02-14": 58
+      "2026-02-14": 21
     }
   }
 ]
