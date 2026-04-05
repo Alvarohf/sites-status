@@ -26,17 +26,17 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "93.80%",
-    "uptimeWeek": "88.45%",
-    "uptimeMonth": "89.43%",
-    "uptimeYear": "98.99%",
-    "time": 1366,
-    "timeDay": 1975,
-    "timeWeek": 1164,
-    "timeMonth": 1191,
-    "timeYear": 1393,
+    "uptimeDay": "93.91%",
+    "uptimeWeek": "88.94%",
+    "uptimeMonth": "89.53%",
+    "uptimeYear": "99.00%",
+    "time": 1365,
+    "timeDay": 1585,
+    "timeWeek": 1094,
+    "timeMonth": 1188,
+    "timeYear": 1392,
     "dailyMinutesDown": {
       "2026-04-05": 42,
       "2026-04-04": 138,
@@ -71,7 +71,7 @@
       "2026-03-03": 241,
       "2026-03-02": 143,
       "2026-03-01": 22,
-      "2026-02-28": 57
+      "2026-02-28": 22
     }
   },
   {
@@ -91,7 +91,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-05": 482,
+      "2026-04-05": 675,
       "2026-04-04": 1440,
       "2026-04-03": 1440,
       "2026-04-02": 1440,
@@ -463,17 +463,17 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "93.80%",
-    "uptimeWeek": "88.44%",
-    "uptimeMonth": "89.55%",
-    "uptimeYear": "98.99%",
-    "time": 752,
-    "timeDay": 454,
-    "timeWeek": 297,
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "93.90%",
+    "uptimeWeek": "88.94%",
+    "uptimeMonth": "89.66%",
+    "uptimeYear": "99.00%",
+    "time": 751,
+    "timeDay": 438,
+    "timeWeek": 294,
     "timeMonth": 403,
-    "timeYear": 733,
+    "timeYear": 732,
     "dailyMinutesDown": {
       "2026-04-05": 42,
       "2026-04-04": 138,
@@ -508,8 +508,7 @@
       "2026-03-03": 241,
       "2026-03-02": 143,
       "2026-03-01": 22,
-      "2026-02-28": 57,
-      "2026-02-27": 47
+      "2026-02-28": 57
     }
   }
 ]
