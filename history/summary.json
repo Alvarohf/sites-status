@@ -26,18 +26,19 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "93.14%",
-    "uptimeWeek": "93.97%",
-    "uptimeMonth": "90.50%",
-    "uptimeYear": "98.98%",
-    "time": 1371,
-    "timeDay": 836,
-    "timeWeek": 1462,
-    "timeMonth": 1239,
-    "timeYear": 1397,
+    "uptimeDay": "97.47%",
+    "uptimeWeek": "94.39%",
+    "uptimeMonth": "90.61%",
+    "uptimeYear": "98.99%",
+    "time": 1370,
+    "timeDay": 657,
+    "timeWeek": 1458,
+    "timeMonth": 1238,
+    "timeYear": 1396,
     "dailyMinutesDown": {
+      "2026-04-12": 0,
       "2026-04-11": 98,
       "2026-04-10": 35,
       "2026-04-09": 28,
@@ -72,7 +73,7 @@
       "2026-03-08": 178,
       "2026-03-07": 70,
       "2026-03-05": 94,
-      "2026-03-04": 97
+      "2026-03-04": 60
     }
   },
   {
@@ -92,7 +93,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-12": 172,
+      "2026-04-12": 549,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
@@ -464,18 +465,19 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "93.14%",
-    "uptimeWeek": "93.97%",
-    "uptimeMonth": "90.63%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "94.39%",
+    "uptimeMonth": "90.74%",
     "uptimeYear": "98.99%",
     "time": 739,
-    "timeDay": 197,
-    "timeWeek": 328,
-    "timeMonth": 425,
+    "timeDay": 228,
+    "timeWeek": 341,
+    "timeMonth": 427,
     "timeYear": 721,
     "dailyMinutesDown": {
+      "2026-04-12": 0,
       "2026-04-11": 98,
       "2026-04-10": 35,
       "2026-04-09": 28,
@@ -510,7 +512,7 @@
       "2026-03-08": 178,
       "2026-03-07": 70,
       "2026-03-05": 94,
-      "2026-03-04": 126
+      "2026-03-04": 97
     }
   }
 ]
