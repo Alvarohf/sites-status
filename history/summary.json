@@ -26,17 +26,17 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "89.23%",
+    "uptimeDay": "92.01%",
     "uptimeWeek": "96.21%",
-    "uptimeMonth": "92.53%",
-    "uptimeYear": "98.96%",
-    "time": 1371,
-    "timeDay": 1378,
-    "timeWeek": 1230,
-    "timeMonth": 1307,
-    "timeYear": 1391,
+    "uptimeMonth": "92.59%",
+    "uptimeYear": "98.97%",
+    "time": 1368,
+    "timeDay": 1308,
+    "timeWeek": 1189,
+    "timeMonth": 1299,
+    "timeYear": 1390,
     "dailyMinutesDown": {
       "2026-04-20": 71,
       "2026-04-19": 83,
@@ -75,7 +75,7 @@
       "2026-03-12": 107,
       "2026-03-11": 323,
       "2026-03-10": 254,
-      "2026-03-09": 100
+      "2026-03-09": 58
     }
   },
   {
@@ -84,7 +84,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "23.44%",
+    "uptime": "23.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -95,7 +95,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-20": 177,
+      "2026-04-20": 1226,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
@@ -467,17 +467,17 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "89.22%",
+    "uptimeDay": "92.00%",
     "uptimeWeek": "96.21%",
-    "uptimeMonth": "92.65%",
-    "uptimeYear": "98.96%",
+    "uptimeMonth": "92.72%",
+    "uptimeYear": "98.97%",
     "time": 730,
-    "timeDay": 455,
-    "timeWeek": 698,
-    "timeMonth": 476,
-    "timeYear": 709,
+    "timeDay": 506,
+    "timeWeek": 682,
+    "timeMonth": 477,
+    "timeYear": 708,
     "dailyMinutesDown": {
       "2026-04-20": 72,
       "2026-04-19": 83,
@@ -516,8 +516,7 @@
       "2026-03-12": 107,
       "2026-03-11": 323,
       "2026-03-10": 253,
-      "2026-03-09": 164,
-      "2026-03-08": 6
+      "2026-03-09": 100
     }
   }
 ]
