@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 120,
-    "timeDay": 76,
-    "timeWeek": 118,
-    "timeMonth": 115,
+    "timeDay": 86,
+    "timeWeek": 117,
+    "timeMonth": 108,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2026-01-05": 31,
@@ -25,18 +25,19 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "95.83%",
-    "uptimeMonth": "94.05%",
-    "uptimeYear": "98.93%",
-    "time": 1368,
-    "timeDay": 3401,
-    "timeWeek": 1241,
-    "timeMonth": 1244,
-    "timeYear": 1384,
+    "uptimeMonth": "94.12%",
+    "uptimeYear": "98.94%",
+    "time": 1367,
+    "timeDay": 399,
+    "timeWeek": 1179,
+    "timeMonth": 1229,
+    "timeYear": 1383,
     "dailyMinutesDown": {
+      "2026-05-02": 0,
       "2026-04-28": 200,
       "2026-04-27": 1,
       "2026-04-26": 220,
@@ -77,7 +78,7 @@
       "2026-03-15": 126,
       "2026-03-14": 304,
       "2026-03-13": 193,
-      "2026-03-12": 107
+      "2026-03-12": 59
     }
   },
   {
@@ -86,7 +87,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "23.27%",
+    "uptime": "23.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -97,7 +98,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-01": 219,
+      "2026-05-02": 170,
+      "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
@@ -460,8 +462,7 @@
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
-      "2025-05-03": 1440,
-      "2025-05-02": 1440
+      "2025-05-03": 1440
     }
   },
   {
@@ -469,18 +470,19 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "95.83%",
-    "uptimeMonth": "94.05%",
-    "uptimeYear": "98.93%",
+    "uptimeMonth": "94.12%",
+    "uptimeYear": "98.94%",
     "time": 723,
-    "timeDay": 528,
-    "timeWeek": 725,
-    "timeMonth": 465,
-    "timeYear": 693,
+    "timeDay": 500,
+    "timeWeek": 737,
+    "timeMonth": 469,
+    "timeYear": 692,
     "dailyMinutesDown": {
+      "2026-05-02": 0,
       "2026-04-28": 200,
       "2026-04-27": 1,
       "2026-04-26": 220,
@@ -521,8 +523,7 @@
       "2026-03-15": 126,
       "2026-03-14": 304,
       "2026-03-13": 193,
-      "2026-03-12": 107,
-      "2026-03-11": 16
+      "2026-03-12": 107
     }
   }
 ]
