@@ -25,18 +25,19 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "93.64%",
-    "uptimeWeek": "96.22%",
-    "uptimeMonth": "94.42%",
+    "uptimeDay": "93.63%",
+    "uptimeWeek": "96.45%",
+    "uptimeMonth": "94.57%",
     "uptimeYear": "98.91%",
     "time": 1370,
-    "timeDay": 996,
-    "timeWeek": 1420,
-    "timeMonth": 1245,
-    "timeYear": 1383,
+    "timeDay": 821,
+    "timeWeek": 1338,
+    "timeMonth": 1253,
+    "timeYear": 1382,
     "dailyMinutesDown": {
+      "2026-05-05": 0,
       "2026-05-04": 92,
       "2026-05-03": 111,
       "2026-05-02": 156,
@@ -79,7 +80,7 @@
       "2026-03-16": 210,
       "2026-03-15": 126,
       "2026-03-14": 304,
-      "2026-03-13": 36
+      "2026-03-13": 20
     }
   },
   {
@@ -99,7 +100,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-05": 177,
+      "2026-05-05": 701,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
@@ -471,18 +472,19 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "93.64%",
-    "uptimeWeek": "96.22%",
-    "uptimeMonth": "94.41%",
-    "uptimeYear": "98.89%",
-    "time": 718,
-    "timeDay": 421,
-    "timeWeek": 405,
-    "timeMonth": 472,
-    "timeYear": 688,
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "93.62%",
+    "uptimeWeek": "96.45%",
+    "uptimeMonth": "94.57%",
+    "uptimeYear": "98.92%",
+    "time": 717,
+    "timeDay": 370,
+    "timeWeek": 356,
+    "timeMonth": 479,
+    "timeYear": 687,
     "dailyMinutesDown": {
+      "2026-05-05": 0,
       "2026-05-04": 92,
       "2026-05-03": 111,
       "2026-05-02": 156,
@@ -525,7 +527,7 @@
       "2026-03-16": 210,
       "2026-03-15": 126,
       "2026-03-14": 304,
-      "2026-03-13": 193
+      "2026-03-13": 36
     }
   }
 ]
