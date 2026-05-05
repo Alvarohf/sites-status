@@ -25,17 +25,17 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "88.80%",
+    "uptimeDay": "88.79%",
     "uptimeWeek": "95.76%",
     "uptimeMonth": "94.42%",
     "uptimeYear": "98.90%",
-    "time": 1370,
-    "timeDay": 904,
-    "timeWeek": 1332,
-    "timeMonth": 1254,
-    "timeYear": 1382,
+    "time": 1369,
+    "timeDay": 831,
+    "timeWeek": 1284,
+    "timeMonth": 1246,
+    "timeYear": 1381,
     "dailyMinutesDown": {
       "2026-05-05": 70,
       "2026-05-04": 92,
@@ -79,8 +79,7 @@
       "2026-03-17": 190,
       "2026-03-16": 210,
       "2026-03-15": 126,
-      "2026-03-14": 304,
-      "2026-03-13": 20
+      "2026-03-14": 304
     }
   },
   {
@@ -89,7 +88,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "23.21%",
+    "uptime": "23.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -100,7 +99,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-05": 771,
+      "2026-05-05": 981,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
