@@ -25,19 +25,19 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "96.26%",
+    "uptimeDay": "96.22%",
     "uptimeWeek": "94.55%",
     "uptimeMonth": "94.64%",
-    "uptimeYear": "98.88%",
-    "time": 1374,
-    "timeDay": 1758,
-    "timeWeek": 1275,
-    "timeMonth": 1165,
-    "timeYear": 1383,
+    "uptimeYear": "98.89%",
+    "time": 1373,
+    "timeDay": 1437,
+    "timeWeek": 1238,
+    "timeMonth": 1158,
+    "timeYear": 1382,
     "dailyMinutesDown": {
-      "2026-05-09": 54,
+      "2026-05-09": 55,
       "2026-05-06": 134,
       "2026-05-05": 160,
       "2026-05-04": 92,
@@ -81,7 +81,7 @@
       "2026-03-17": 190,
       "2026-03-16": 210,
       "2026-03-15": 126,
-      "2026-03-14": 134
+      "2026-03-14": 91
     }
   },
   {
@@ -101,7 +101,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-09": 635,
+      "2026-05-09": 879,
       "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
