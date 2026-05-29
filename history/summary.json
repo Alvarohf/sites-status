@@ -13,8 +13,8 @@
     "time": 118,
     "timeDay": 55,
     "timeWeek": 74,
-    "timeMonth": 80,
-    "timeYear": 120,
+    "timeMonth": 77,
+    "timeYear": 119,
     "dailyMinutesDown": {
       "2025-12-22": 41,
       "2026-01-05": 31
@@ -25,17 +25,17 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "92.65%",
-    "uptimeMonth": "92.58%",
-    "uptimeYear": "98.63%",
-    "time": 1362,
-    "timeDay": 458,
-    "timeWeek": 1132,
-    "timeMonth": 1338,
-    "timeYear": 1385,
+    "uptimeDay": "95.26%",
+    "uptimeWeek": "92.28%",
+    "uptimeMonth": "92.42%",
+    "uptimeYear": "98.62%",
+    "time": 1363,
+    "timeDay": 755,
+    "timeWeek": 1151,
+    "timeMonth": 1340,
+    "timeYear": 1386,
     "dailyMinutesDown": {
       "2026-03-21": 76,
       "2026-03-22": 43,
@@ -86,7 +86,7 @@
       "2026-05-23": 63,
       "2026-05-24": 191,
       "2026-05-28": 456,
-      "2026-05-29": 1
+      "2026-05-29": 68
     }
   },
   {
@@ -106,7 +106,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-29": 1366,
+      "2026-05-29": 1434,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
@@ -478,16 +478,16 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "down",
+    "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "95.96%",
-    "uptimeMonth": "95.71%",
-    "uptimeYear": "98.76%",
-    "time": 711,
-    "timeDay": 184,
-    "timeWeek": 384,
-    "timeMonth": 393,
+    "uptimeDay": "95.28%",
+    "uptimeWeek": "95.59%",
+    "uptimeMonth": "95.56%",
+    "uptimeYear": "98.75%",
+    "time": 710,
+    "timeDay": 319,
+    "timeWeek": 381,
+    "timeMonth": 401,
     "timeYear": 669,
     "dailyMinutesDown": {
       "2026-03-17": 190,
@@ -540,7 +540,7 @@
       "2026-05-22": 171,
       "2026-05-24": 121,
       "2026-05-28": 256,
-      "2026-05-29": 0
+      "2026-05-29": 68
     }
   }
 ]
