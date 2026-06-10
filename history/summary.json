@@ -26,14 +26,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
     "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "93.72%",
-    "uptimeWeek": "73.92%",
-    "uptimeMonth": "86.61%",
-    "uptimeYear": "98.16%",
+    "uptime": "99.57%",
+    "uptimeDay": "83.97%",
+    "uptimeWeek": "73.85%",
+    "uptimeMonth": "86.29%",
+    "uptimeYear": "98.14%",
     "time": 1357,
     "timeDay": 861,
-    "timeWeek": 942,
+    "timeWeek": 970,
     "timeMonth": 1162,
     "timeYear": 1372,
     "dailyMinutesDown": {
@@ -90,7 +90,7 @@
       "2026-06-07": 222,
       "2026-06-09": 174,
       "2026-06-08": 0,
-      "2026-06-10": 1
+      "2026-06-10": 141
     }
   },
   {
@@ -99,7 +99,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "22.69%",
+    "uptime": "22.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -110,7 +110,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-10": 99,
+      "2026-06-10": 239,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -483,14 +483,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
     "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "93.76%",
-    "uptimeWeek": "74.60%",
-    "uptimeMonth": "89.59%",
-    "uptimeYear": "98.33%",
+    "uptime": "99.56%",
+    "uptimeDay": "84.01%",
+    "uptimeWeek": "74.53%",
+    "uptimeMonth": "89.27%",
+    "uptimeYear": "98.31%",
     "time": 693,
     "timeDay": 502,
-    "timeWeek": 349,
+    "timeWeek": 358,
     "timeMonth": 396,
     "timeYear": 656,
     "dailyMinutesDown": {
@@ -546,7 +546,7 @@
       "2026-06-06": 418,
       "2026-06-07": 221,
       "2026-06-09": 173,
-      "2026-06-10": 0
+      "2026-06-10": 141
     }
   }
 ]
