@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 118,
-    "timeDay": 80,
-    "timeWeek": 74,
+    "timeDay": 87,
+    "timeWeek": 76,
     "timeMonth": 74,
     "timeYear": 118,
     "dailyMinutesDown": {
@@ -25,16 +25,16 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "down",
+    "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "37.29%",
-    "uptimeWeek": "80.28%",
-    "uptimeMonth": "83.75%",
-    "uptimeYear": "97.96%",
-    "time": 1354,
-    "timeDay": 822,
-    "timeWeek": 1071,
-    "timeMonth": 1146,
+    "uptimeDay": "36.78%",
+    "uptimeWeek": "80.17%",
+    "uptimeMonth": "83.73%",
+    "uptimeYear": "97.95%",
+    "time": 1353,
+    "timeDay": 999,
+    "timeWeek": 1057,
+    "timeMonth": 1147,
     "timeYear": 1369,
     "dailyMinutesDown": {
       "2026-04-03": 50,
@@ -89,7 +89,8 @@
       "2026-06-10": 649,
       "2026-06-11": 102,
       "2026-06-12": 161,
-      "2026-06-14": 902
+      "2026-06-14": 910,
+      "2026-06-15": 4
     }
   },
   {
@@ -109,7 +110,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 1433,
+      "2026-06-15": 4,
+      "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -472,8 +474,7 @@
       "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
-      "2025-06-16": 1440,
-      "2025-06-15": 1440
+      "2025-06-16": 1440
     }
   },
   {
@@ -483,14 +484,14 @@
     "slug": "overtips",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "37.36%",
+    "uptimeDay": "37.56%",
     "uptimeWeek": "80.30%",
     "uptimeMonth": "86.41%",
     "uptimeYear": "98.06%",
     "time": 687,
-    "timeDay": 102,
-    "timeWeek": 357,
-    "timeMonth": 373,
+    "timeDay": 128,
+    "timeWeek": 330,
+    "timeMonth": 371,
     "timeYear": 650,
     "dailyMinutesDown": {
       "2026-03-28": 20,
