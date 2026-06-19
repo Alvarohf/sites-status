@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 118,
-    "timeDay": 121,
-    "timeWeek": 82,
-    "timeMonth": 77,
+    "timeDay": 58,
+    "timeWeek": 80,
+    "timeMonth": 76,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2025-12-22": 41,
@@ -25,16 +25,16 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "52.75%",
-    "uptimeWeek": "64.80%",
-    "uptimeMonth": "78.85%",
-    "uptimeYear": "97.54%",
-    "time": 1349,
-    "timeDay": 294,
-    "timeWeek": 929,
-    "timeMonth": 1109,
+    "status": "up",
+    "uptime": "99.43%",
+    "uptimeDay": "50.79%",
+    "uptimeWeek": "64.48%",
+    "uptimeMonth": "78.71%",
+    "uptimeYear": "97.53%",
+    "time": 1338,
+    "timeDay": 745,
+    "timeWeek": 886,
+    "timeMonth": 1104,
     "timeYear": 1362,
     "dailyMinutesDown": {
       "2026-04-06": 283,
@@ -90,7 +90,8 @@
       "2026-06-15": 652,
       "2026-06-16": 417,
       "2026-06-17": 717,
-      "2026-06-18": 671
+      "2026-06-18": 709,
+      "2026-06-19": 21
     }
   },
   {
@@ -110,7 +111,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-18": 1402,
+      "2026-06-19": 22,
+      "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
@@ -473,8 +475,7 @@
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
-      "2025-06-20": 1440,
-      "2025-06-19": 1440
+      "2025-06-20": 1440
     }
   },
   {
@@ -482,16 +483,16 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "down",
+    "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "70.10%",
-    "uptimeWeek": "70.43%",
-    "uptimeMonth": "82.55%",
-    "uptimeYear": "97.76%",
-    "time": 679,
-    "timeDay": 109,
-    "timeWeek": 264,
-    "timeMonth": 348,
+    "uptimeDay": "68.09%",
+    "uptimeWeek": "70.11%",
+    "uptimeMonth": "82.42%",
+    "uptimeYear": "97.75%",
+    "time": 678,
+    "timeDay": 157,
+    "timeWeek": 235,
+    "timeMonth": 343,
     "timeYear": 644,
     "dailyMinutesDown": {
       "2026-03-30": 311,
@@ -549,7 +550,8 @@
       "2026-06-15": 651,
       "2026-06-16": 418,
       "2026-06-17": 399,
-      "2026-06-18": 421
+      "2026-06-18": 459,
+      "2026-06-19": 21
     }
   }
 ]
