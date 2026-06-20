@@ -25,17 +25,17 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "53.67%",
-    "uptimeWeek": "56.48%",
-    "uptimeMonth": "76.97%",
-    "uptimeYear": "97.40%",
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "53.70%",
+    "uptimeWeek": "54.78%",
+    "uptimeMonth": "76.58%",
+    "uptimeYear": "97.37%",
     "time": 1334,
-    "timeDay": 647,
-    "timeWeek": 805,
+    "timeDay": 709,
+    "timeWeek": 811,
     "timeMonth": 1035,
-    "timeYear": 1358,
+    "timeYear": 1357,
     "dailyMinutesDown": {
       "2026-04-07": 61,
       "2026-04-09": 28,
@@ -91,7 +91,7 @@
       "2026-06-17": 717,
       "2026-06-18": 709,
       "2026-06-19": 522,
-      "2026-06-20": 466
+      "2026-06-20": 637
     }
   },
   {
@@ -100,7 +100,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "22.54%",
+    "uptime": "22.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -111,7 +111,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-20": 907,
+      "2026-06-20": 1079,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
@@ -483,16 +483,16 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "53.70%",
-    "uptimeWeek": "62.12%",
-    "uptimeMonth": "80.21%",
-    "uptimeYear": "97.67%",
+    "status": "up",
+    "uptime": "99.39%",
+    "uptimeDay": "53.71%",
+    "uptimeWeek": "60.42%",
+    "uptimeMonth": "79.82%",
+    "uptimeYear": "97.64%",
     "time": 674,
-    "timeDay": 240,
-    "timeWeek": 218,
-    "timeMonth": 332,
+    "timeDay": 327,
+    "timeWeek": 233,
+    "timeMonth": 335,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2026-04-03": 111,
@@ -549,7 +549,7 @@
       "2026-06-17": 399,
       "2026-06-18": 459,
       "2026-06-19": 522,
-      "2026-06-20": 465
+      "2026-06-20": 637
     }
   }
 ]
