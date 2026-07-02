@@ -25,20 +25,19 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.35%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "88.50%",
     "uptimeMonth": "73.64%",
     "uptimeYear": "96.90%",
     "time": 1321,
-    "timeDay": 1213,
-    "timeWeek": 718,
-    "timeMonth": 848,
-    "timeYear": 1337,
+    "timeDay": 628,
+    "timeWeek": 683,
+    "timeMonth": 842,
+    "timeYear": 1336,
     "dailyMinutesDown": {
-      "2026-04-21": 47,
-      "2026-04-20": 23,
+      "2026-04-21": 45,
       "2026-04-22": 138,
       "2026-04-23": 178,
       "2026-04-26": 220,
@@ -91,7 +90,8 @@
       "2026-06-27": 312,
       "2026-06-28": 170,
       "2026-06-29": 376,
-      "2026-06-30": 214
+      "2026-06-30": 214,
+      "2026-07-02": 1
     }
   },
   {
@@ -111,7 +111,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-02": 230,
+      "2026-07-02": 1124,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
@@ -483,19 +483,19 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.52%",
+    "status": "down",
+    "uptime": "99.28%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "88.67%",
     "uptimeMonth": "75.15%",
-    "uptimeYear": "97.18%",
-    "time": 665,
-    "timeDay": 174,
-    "timeWeek": 230,
-    "timeMonth": 287,
+    "uptimeYear": "97.19%",
+    "time": 664,
+    "timeDay": 110,
+    "timeWeek": 222,
+    "timeMonth": 285,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2026-04-12": 205,
+      "2026-04-12": 140,
       "2026-04-15": 95,
       "2026-04-16": 47,
       "2026-04-17": 54,
@@ -550,7 +550,8 @@
       "2026-06-27": 311,
       "2026-06-28": 170,
       "2026-06-29": 376,
-      "2026-06-30": 214
+      "2026-06-30": 214,
+      "2026-07-02": 0
     }
   }
 ]
