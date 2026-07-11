@@ -25,20 +25,18 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "91.66%",
+    "status": "down",
+    "uptime": "99.28%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "93.41%",
     "uptimeMonth": "78.38%",
-    "uptimeYear": "96.77%",
-    "time": 1311,
-    "timeDay": 1371,
-    "timeWeek": 856,
-    "timeMonth": 790,
-    "timeYear": 1327,
+    "uptimeYear": "96.81%",
+    "time": 1310,
+    "timeDay": 727,
+    "timeWeek": 907,
+    "timeMonth": 784,
+    "timeYear": 1326,
     "dailyMinutesDown": {
-      "2026-04-28": 200,
-      "2026-04-27": 1,
       "2026-05-02": 156,
       "2026-05-03": 111,
       "2026-05-04": 92,
@@ -91,7 +89,8 @@
       "2026-07-03": 283,
       "2026-07-04": 460,
       "2026-07-06": 249,
-      "2026-07-08": 199
+      "2026-07-08": 199,
+      "2026-07-11": 1
     }
   },
   {
@@ -111,7 +110,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-11": 170,
+      "2026-07-11": 591,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
@@ -483,19 +482,18 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "91.67%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "93.42%",
     "uptimeMonth": "79.86%",
-    "uptimeYear": "97.02%",
+    "uptimeYear": "97.03%",
     "time": 654,
-    "timeDay": 126,
-    "timeWeek": 158,
-    "timeMonth": 235,
-    "timeYear": 613,
+    "timeDay": 101,
+    "timeWeek": 164,
+    "timeMonth": 233,
+    "timeYear": 612,
     "dailyMinutesDown": {
-      "2026-04-18": 30,
       "2026-04-19": 83,
       "2026-04-20": 135,
       "2026-04-21": 47,
@@ -551,7 +549,8 @@
       "2026-07-03": 223,
       "2026-07-04": 461,
       "2026-07-06": 248,
-      "2026-07-08": 199
+      "2026-07-08": 199,
+      "2026-07-11": 0
     }
   }
 ]
