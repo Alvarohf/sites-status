@@ -25,16 +25,16 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "down",
-    "uptime": "99.27%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "89.72%",
-    "uptimeMonth": "85.34%",
-    "uptimeYear": "96.74%",
+    "status": "up",
+    "uptime": "99.26%",
+    "uptimeDay": "96.42%",
+    "uptimeWeek": "89.73%",
+    "uptimeMonth": "85.22%",
+    "uptimeYear": "96.73%",
     "time": 1307,
-    "timeDay": 798,
-    "timeWeek": 1045,
-    "timeMonth": 797,
+    "timeDay": 917,
+    "timeWeek": 1051,
+    "timeMonth": 800,
     "timeYear": 1320,
     "dailyMinutesDown": {
       "2026-05-09": 32,
@@ -93,7 +93,7 @@
       "2026-07-16": 117,
       "2026-07-17": 82,
       "2026-07-18": 70,
-      "2026-07-19": 1
+      "2026-07-19": 52
     }
   },
   {
@@ -113,7 +113,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-19": 1161,
+      "2026-07-19": 1213,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -488,7 +488,7 @@
     "status": "up",
     "uptime": "99.21%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.83%",
+    "uptimeWeek": "90.34%",
     "uptimeMonth": "85.55%",
     "uptimeYear": "96.89%",
     "time": 647,
