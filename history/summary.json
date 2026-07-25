@@ -25,17 +25,17 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "down",
-    "uptime": "99.27%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "95.71%",
-    "uptimeMonth": "90.76%",
-    "uptimeYear": "96.73%",
-    "time": 1306,
-    "timeDay": 1096,
-    "timeWeek": 982,
-    "timeMonth": 828,
-    "timeYear": 1318,
+    "status": "up",
+    "uptime": "99.26%",
+    "uptimeDay": "90.28%",
+    "uptimeWeek": "94.37%",
+    "uptimeMonth": "90.72%",
+    "uptimeYear": "96.70%",
+    "time": 1307,
+    "timeDay": 2124,
+    "timeWeek": 1127,
+    "timeMonth": 851,
+    "timeYear": 1319,
     "dailyMinutesDown": {
       "2026-05-11": 279,
       "2026-05-15": 140,
@@ -94,7 +94,7 @@
       "2026-07-19": 52,
       "2026-07-21": 52,
       "2026-07-22": 254,
-      "2026-07-25": 5
+      "2026-07-25": 140
     }
   },
   {
@@ -114,7 +114,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 229,
+      "2026-07-25": 364,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -486,17 +486,17 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "down",
-    "uptime": "99.22%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "96.93%",
-    "uptimeMonth": "91.23%",
-    "uptimeYear": "96.91%",
-    "time": 643,
-    "timeDay": 142,
-    "timeWeek": 331,
+    "status": "up",
+    "uptime": "99.21%",
+    "uptimeDay": "90.62%",
+    "uptimeWeek": "95.60%",
+    "uptimeMonth": "91.19%",
+    "uptimeYear": "96.88%",
+    "time": 642,
+    "timeDay": 181,
+    "timeWeek": 321,
     "timeMonth": 280,
-    "timeYear": 606,
+    "timeYear": 605,
     "dailyMinutesDown": {
       "2026-04-26": 57,
       "2026-04-28": 200,
@@ -558,7 +558,7 @@
       "2026-07-17": 77,
       "2026-07-18": 65,
       "2026-07-22": 244,
-      "2026-07-25": 0
+      "2026-07-25": 135
     }
   }
 ]
