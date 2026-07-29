@@ -26,16 +26,16 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "down",
+    "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "93.24%",
-    "uptimeWeek": "83.90%",
-    "uptimeMonth": "89.74%",
-    "uptimeYear": "96.71%",
+    "uptimeDay": "89.68%",
+    "uptimeWeek": "83.40%",
+    "uptimeMonth": "89.62%",
+    "uptimeYear": "96.70%",
     "time": 1304,
-    "timeDay": 1318,
-    "timeWeek": 1389,
-    "timeMonth": 967,
+    "timeDay": 1168,
+    "timeWeek": 1362,
+    "timeMonth": 966,
     "timeYear": 1320,
     "dailyMinutesDown": {
       "2026-05-22": 68,
@@ -93,7 +93,7 @@
       "2026-07-26": 111,
       "2026-07-27": 380,
       "2026-07-28": 624,
-      "2026-07-29": 97
+      "2026-07-29": 149
     }
   },
   {
@@ -102,7 +102,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "22.00%",
+    "uptime": "21.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -113,7 +113,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-29": 1217,
+      "2026-07-29": 1269,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -485,16 +485,16 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "down",
+    "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "93.93%",
-    "uptimeWeek": "84.48%",
-    "uptimeMonth": "90.28%",
-    "uptimeYear": "96.79%",
-    "time": 643,
-    "timeDay": 737,
-    "timeWeek": 826,
-    "timeMonth": 419,
+    "uptimeDay": "90.35%",
+    "uptimeWeek": "83.97%",
+    "uptimeMonth": "90.16%",
+    "uptimeYear": "96.78%",
+    "time": 642,
+    "timeDay": 541,
+    "timeWeek": 790,
+    "timeMonth": 416,
     "timeYear": 608,
     "dailyMinutesDown": {
       "2026-05-10": 231,
@@ -552,7 +552,7 @@
       "2026-07-26": 101,
       "2026-07-27": 370,
       "2026-07-28": 619,
-      "2026-07-29": 87
+      "2026-07-29": 139
     }
   }
 ]
