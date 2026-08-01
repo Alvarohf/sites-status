@@ -26,20 +26,19 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "96.14%",
-    "uptimeWeek": "83.05%",
-    "uptimeMonth": "89.78%",
+    "uptimeDay": "95.76%",
+    "uptimeWeek": "84.74%",
+    "uptimeMonth": "89.77%",
     "uptimeYear": "96.69%",
-    "time": 1302,
+    "time": 1303,
     "timeDay": 1045,
-    "timeWeek": 1299,
+    "timeWeek": 1207,
     "timeMonth": 985,
     "timeYear": 1318,
     "dailyMinutesDown": {
-      "2026-05-24": 191,
-      "2026-05-23": 8,
+      "2026-05-24": 183,
       "2026-05-28": 456,
       "2026-05-29": 68,
       "2026-05-31": 140,
@@ -94,7 +93,8 @@
       "2026-07-28": 624,
       "2026-07-29": 149,
       "2026-07-30": 87,
-      "2026-07-31": 56
+      "2026-07-31": 56,
+      "2026-08-01": 5
     }
   },
   {
@@ -114,7 +114,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-01": 194,
+      "2026-08-01": 718,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -486,19 +486,18 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "96.47%",
-    "uptimeWeek": "83.63%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "85.27%",
     "uptimeMonth": "90.34%",
-    "uptimeYear": "96.78%",
+    "uptimeYear": "96.80%",
     "time": 638,
     "timeDay": 427,
-    "timeWeek": 870,
+    "timeWeek": 902,
     "timeMonth": 453,
     "timeYear": 608,
     "dailyMinutesDown": {
-      "2026-05-10": 98,
       "2026-05-11": 190,
       "2026-05-15": 140,
       "2026-05-17": 61,
@@ -555,7 +554,8 @@
       "2026-07-28": 619,
       "2026-07-29": 139,
       "2026-07-30": 87,
-      "2026-07-31": 51
+      "2026-07-31": 51,
+      "2026-08-01": 0
     }
   }
 ]
