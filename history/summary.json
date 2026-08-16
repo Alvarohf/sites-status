@@ -11,8 +11,8 @@
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.95%",
     "time": 113,
-    "timeDay": 59,
-    "timeWeek": 87,
+    "timeDay": 81,
+    "timeWeek": 92,
     "timeMonth": 91,
     "timeYear": 116,
     "dailyMinutesDown": {
@@ -26,17 +26,17 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "91.30%",
-    "uptimeMonth": "86.75%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "91.58%",
+    "uptimeMonth": "86.76%",
     "uptimeYear": "97.68%",
     "time": 1312,
-    "timeDay": 2333,
-    "timeWeek": 1565,
-    "timeMonth": 1417,
-    "timeYear": 1327,
+    "timeDay": 2364,
+    "timeWeek": 1633,
+    "timeMonth": 1433,
+    "timeYear": 1328,
     "dailyMinutesDown": {
       "2026-06-19": 241,
       "2026-06-20": 697,
@@ -87,7 +87,8 @@
       "2026-08-12": 209,
       "2026-08-13": 207,
       "2026-08-14": 141,
-      "2026-08-15": 27
+      "2026-08-15": 17,
+      "2026-08-16": 5
     }
   },
   {
@@ -107,7 +108,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-15": 1258,
+      "2026-08-16": 10,
+      "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -470,8 +472,7 @@
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
-      "2025-08-17": 1440,
-      "2025-08-16": 1440
+      "2025-08-17": 1440
     }
   },
   {
@@ -479,17 +480,17 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "92.29%",
-    "uptimeMonth": "87.63%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "92.53%",
+    "uptimeMonth": "87.64%",
     "uptimeYear": "97.55%",
     "time": 635,
-    "timeDay": 480,
-    "timeWeek": 430,
-    "timeMonth": 640,
-    "timeYear": 604,
+    "timeDay": 296,
+    "timeWeek": 448,
+    "timeMonth": 638,
+    "timeYear": 603,
     "dailyMinutesDown": {
       "2026-06-17": 399,
       "2026-06-18": 459,
@@ -539,7 +540,7 @@
       "2026-08-12": 195,
       "2026-08-13": 188,
       "2026-08-14": 136,
-      "2026-08-15": 5
+      "2026-08-16": 0
     }
   }
 ]
