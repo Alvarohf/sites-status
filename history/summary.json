@@ -27,19 +27,19 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "91.44%",
-    "uptimeMonth": "86.81%",
-    "uptimeYear": "97.71%",
-    "time": 1316,
-    "timeDay": 1906,
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "91.38%",
+    "uptimeMonth": "86.80%",
+    "uptimeYear": "97.80%",
+    "time": 1315,
+    "timeDay": 2061,
     "timeWeek": 1709,
     "timeMonth": 1446,
     "timeYear": 1331,
     "dailyMinutesDown": {
-      "2026-06-20": 697,
+      "2026-06-20": 232,
       "2026-06-21": 669,
       "2026-06-22": 544,
       "2026-06-23": 579,
@@ -88,7 +88,8 @@
       "2026-08-13": 207,
       "2026-08-14": 141,
       "2026-08-15": 17,
-      "2026-08-16": 102
+      "2026-08-16": 102,
+      "2026-08-17": 5
     }
   },
   {
@@ -108,7 +109,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-17": 82,
+      "2026-08-17": 94,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -480,20 +481,20 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "98.67%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "98.88%",
     "uptimeWeek": "92.28%",
     "uptimeMonth": "87.70%",
-    "uptimeYear": "97.59%",
+    "uptimeYear": "97.61%",
     "time": 629,
-    "timeDay": 241,
+    "timeDay": 219,
     "timeWeek": 381,
     "timeMonth": 598,
     "timeYear": 601,
     "dailyMinutesDown": {
-      "2026-06-17": 125,
       "2026-06-18": 459,
+      "2026-06-17": 9,
       "2026-06-19": 522,
       "2026-06-20": 697,
       "2026-06-21": 667,
@@ -540,7 +541,8 @@
       "2026-08-12": 195,
       "2026-08-13": 188,
       "2026-08-14": 136,
-      "2026-08-16": 92
+      "2026-08-16": 92,
+      "2026-08-17": 0
     }
   }
 ]
