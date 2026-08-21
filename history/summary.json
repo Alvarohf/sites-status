@@ -13,7 +13,7 @@
     "time": 114,
     "timeDay": 113,
     "timeWeek": 162,
-    "timeMonth": 112,
+    "timeMonth": 114,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2025-12-22": 41,
@@ -28,16 +28,16 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "down",
+    "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "93.90%",
-    "uptimeMonth": "86.26%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "93.83%",
+    "uptimeMonth": "86.25%",
     "uptimeYear": "98.17%",
-    "time": 1319,
-    "timeDay": 1292,
-    "timeWeek": 1678,
-    "timeMonth": 1478,
+    "time": 1318,
+    "timeDay": 1235,
+    "timeWeek": 1662,
+    "timeMonth": 1480,
     "timeYear": 1331,
     "dailyMinutesDown": {
       "2026-06-27": 312,
@@ -87,7 +87,7 @@
       "2026-08-18": 136,
       "2026-08-19": 158,
       "2026-08-20": 110,
-      "2026-08-21": 5
+      "2026-08-21": 12
     }
   },
   {
@@ -107,7 +107,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-21": 1428,
+      "2026-08-21": 1435,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -479,15 +479,15 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "down",
+    "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "95.00%",
-    "uptimeMonth": "87.08%",
-    "uptimeYear": "98.07%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "94.92%",
+    "uptimeMonth": "87.06%",
+    "uptimeYear": "98.06%",
     "time": 641,
-    "timeDay": 428,
-    "timeWeek": 316,
+    "timeDay": 404,
+    "timeWeek": 317,
     "timeMonth": 565,
     "timeYear": 596,
     "dailyMinutesDown": {
@@ -539,7 +539,7 @@
       "2026-08-18": 109,
       "2026-08-19": 139,
       "2026-08-20": 101,
-      "2026-08-21": 0
+      "2026-08-21": 8
     }
   }
 ]
