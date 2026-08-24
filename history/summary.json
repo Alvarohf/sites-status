@@ -28,19 +28,18 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "94.64%",
-    "uptimeWeek": "93.28%",
-    "uptimeMonth": "86.43%",
-    "uptimeYear": "98.23%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "97.24%",
+    "uptimeWeek": "93.89%",
+    "uptimeMonth": "86.41%",
+    "uptimeYear": "98.30%",
     "time": 1322,
-    "timeDay": 1433,
-    "timeWeek": 1425,
+    "timeDay": 991,
+    "timeWeek": 1434,
     "timeMonth": 1496,
     "timeYear": 1331,
     "dailyMinutesDown": {
-      "2026-06-29": 376,
       "2026-06-30": 214,
       "2026-07-02": 83,
       "2026-07-03": 283,
@@ -86,7 +85,8 @@
       "2026-08-19": 158,
       "2026-08-20": 110,
       "2026-08-22": 85,
-      "2026-08-23": 102
+      "2026-08-23": 102,
+      "2026-08-24": 5
     }
   },
   {
@@ -106,7 +106,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-24": 85,
+      "2026-08-24": 728,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -478,20 +478,20 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "95.32%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "95.94%",
     "uptimeMonth": "87.50%",
-    "uptimeYear": "98.12%",
+    "uptimeYear": "98.18%",
     "time": 636,
-    "timeDay": 576,
-    "timeWeek": 421,
+    "timeDay": 184,
+    "timeWeek": 419,
     "timeMonth": 572,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2026-06-23": 322,
       "2026-06-24": 113,
+      "2026-06-23": 5,
       "2026-06-25": 322,
       "2026-06-27": 311,
       "2026-06-28": 170,
@@ -538,7 +538,8 @@
       "2026-08-19": 139,
       "2026-08-20": 101,
       "2026-08-22": 15,
-      "2026-08-23": 44
+      "2026-08-23": 44,
+      "2026-08-24": 0
     }
   }
 ]
