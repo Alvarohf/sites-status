@@ -28,16 +28,16 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "97.24%",
-    "uptimeWeek": "93.89%",
-    "uptimeMonth": "86.41%",
-    "uptimeYear": "98.30%",
+    "uptimeDay": "95.00%",
+    "uptimeWeek": "93.57%",
+    "uptimeMonth": "86.34%",
+    "uptimeYear": "98.29%",
     "time": 1322,
-    "timeDay": 991,
-    "timeWeek": 1434,
-    "timeMonth": 1496,
+    "timeDay": 966,
+    "timeWeek": 1418,
+    "timeMonth": 1491,
     "timeYear": 1331,
     "dailyMinutesDown": {
       "2026-06-30": 214,
@@ -86,7 +86,7 @@
       "2026-08-20": 110,
       "2026-08-22": 85,
       "2026-08-23": 102,
-      "2026-08-24": 5
+      "2026-08-24": 38
     }
   },
   {
@@ -95,7 +95,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--caadaespinar-bhb.com.ico",
     "slug": "canada-el-espinar",
     "status": "down",
-    "uptime": "21.66%",
+    "uptime": "21.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -106,7 +106,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-24": 728,
+      "2026-08-24": 760,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -478,17 +478,17 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "95.94%",
-    "uptimeMonth": "87.50%",
-    "uptimeYear": "98.18%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "95.62%",
+    "uptimeMonth": "87.43%",
+    "uptimeYear": "98.17%",
     "time": 636,
-    "timeDay": 184,
-    "timeWeek": 419,
-    "timeMonth": 572,
-    "timeYear": 595,
+    "timeDay": 181,
+    "timeWeek": 412,
+    "timeMonth": 569,
+    "timeYear": 594,
     "dailyMinutesDown": {
       "2026-06-24": 113,
       "2026-06-23": 5,
@@ -539,7 +539,7 @@
       "2026-08-20": 101,
       "2026-08-22": 15,
       "2026-08-23": 44,
-      "2026-08-24": 0
+      "2026-08-24": 33
     }
   }
 ]
