@@ -28,19 +28,18 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "81.45%",
-    "uptimeMonth": "85.45%",
-    "uptimeYear": "98.25%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "81.39%",
+    "uptimeMonth": "85.75%",
+    "uptimeYear": "98.28%",
     "time": 1329,
     "timeDay": 853,
     "timeWeek": 1486,
-    "timeMonth": 1545,
+    "timeMonth": 1547,
     "timeYear": 1336,
     "dailyMinutesDown": {
-      "2026-07-14": 190,
       "2026-07-15": 169,
       "2026-07-16": 117,
       "2026-07-17": 82,
@@ -82,7 +81,8 @@
       "2026-08-26": 179,
       "2026-08-27": 606,
       "2026-08-30": 383,
-      "2026-08-31": 795
+      "2026-08-31": 795,
+      "2026-09-02": 5
     }
   },
   {
@@ -102,7 +102,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-02": 213,
+      "2026-09-02": 630,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -474,20 +474,19 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "81.55%",
-    "uptimeMonth": "86.52%",
-    "uptimeYear": "98.10%",
-    "time": 625,
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "81.54%",
+    "uptimeMonth": "86.82%",
+    "uptimeYear": "98.12%",
+    "time": 622,
     "timeDay": 67,
     "timeWeek": 536,
-    "timeMonth": 508,
+    "timeMonth": 507,
     "timeYear": 591,
     "dailyMinutesDown": {
-      "2026-07-04": 461,
-      "2026-07-03": 1,
+      "2026-07-04": 393,
       "2026-07-06": 248,
       "2026-07-08": 199,
       "2026-07-11": 98,
@@ -532,7 +531,8 @@
       "2026-08-26": 169,
       "2026-08-27": 606,
       "2026-08-30": 378,
-      "2026-08-31": 795
+      "2026-08-31": 795,
+      "2026-09-02": 0
     }
   }
 ]
