@@ -29,13 +29,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
     "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "79.78%",
-    "uptimeWeek": "90.20%",
-    "uptimeMonth": "87.71%",
-    "uptimeYear": "98.11%",
+    "uptime": "99.58%",
+    "uptimeDay": "71.62%",
+    "uptimeWeek": "88.57%",
+    "uptimeMonth": "87.33%",
+    "uptimeYear": "98.08%",
     "time": 1331,
-    "timeDay": 888,
+    "timeDay": 1312,
     "timeWeek": 1005,
     "timeMonth": 1498,
     "timeYear": 1325,
@@ -84,7 +84,7 @@
       "2026-09-09": 273,
       "2026-09-08": 81,
       "2026-09-12": 286,
-      "2026-09-13": 5
+      "2026-09-13": 170
     }
   },
   {
@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-13": 68,
+      "2026-09-13": 232,
       "2026-09-12": 1440,
       "2026-09-11": 1440,
       "2026-09-10": 1440,
@@ -477,13 +477,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
     "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "80.14%",
-    "uptimeWeek": "90.30%",
-    "uptimeMonth": "88.53%",
-    "uptimeYear": "98.08%",
+    "uptime": "99.52%",
+    "uptimeDay": "71.95%",
+    "uptimeWeek": "88.67%",
+    "uptimeMonth": "88.16%",
+    "uptimeYear": "98.04%",
     "time": 607,
-    "timeDay": 168,
+    "timeDay": 234,
     "timeWeek": 315,
     "timeMonth": 426,
     "timeYear": 579,
@@ -535,7 +535,7 @@
       "2026-09-09": 273,
       "2026-09-08": 76,
       "2026-09-12": 286,
-      "2026-09-13": 0
+      "2026-09-13": 165
     }
   }
 ]
