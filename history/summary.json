@@ -28,19 +28,18 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.88%",
-    "uptimeYear": "97.96%",
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "89.58%",
+    "uptimeYear": "98.00%",
     "time": 1334,
     "timeDay": 1295,
     "timeWeek": 2207,
-    "timeMonth": 1241,
-    "timeYear": 1321,
+    "timeMonth": 1261,
+    "timeYear": 1320,
     "dailyMinutesDown": {
-      "2026-07-27": 180,
       "2026-07-28": 624,
       "2026-07-29": 149,
       "2026-07-30": 87,
@@ -85,7 +84,8 @@
       "2026-09-13": 513,
       "2026-09-17": 185,
       "2026-09-18": 195,
-      "2026-09-19": 252
+      "2026-09-19": 252,
+      "2026-09-27": 5
     }
   },
   {
@@ -105,7 +105,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-27": 261,
+      "2026-09-27": 951,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
@@ -477,19 +477,18 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.97%",
-    "uptimeYear": "97.94%",
+    "uptimeMonth": "89.69%",
+    "uptimeYear": "97.96%",
     "time": 604,
     "timeDay": 354,
     "timeWeek": 529,
-    "timeMonth": 475,
+    "timeMonth": 482,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2026-07-22": 103,
       "2026-07-25": 284,
       "2026-07-26": 101,
       "2026-07-27": 370,
@@ -536,7 +535,8 @@
       "2026-09-13": 503,
       "2026-09-17": 185,
       "2026-09-18": 195,
-      "2026-09-19": 252
+      "2026-09-19": 252,
+      "2026-09-27": 0
     }
   }
 ]
