@@ -30,10 +30,10 @@
     "slug": "planeta-fascinante",
     "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "91.51%",
-    "uptimeMonth": "96.73%",
-    "uptimeYear": "97.90%",
+    "uptimeDay": "91.41%",
+    "uptimeWeek": "90.28%",
+    "uptimeMonth": "96.45%",
+    "uptimeYear": "97.87%",
     "time": 1332,
     "timeDay": 679,
     "timeWeek": 1042,
@@ -87,7 +87,7 @@
       "2026-10-03": 166,
       "2026-10-19": 210,
       "2026-10-23": 646,
-      "2026-10-25": 0
+      "2026-10-25": 124
     }
   },
   {
@@ -107,7 +107,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-25": 103,
+      "2026-10-25": 226,
       "2026-10-24": 1440,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
