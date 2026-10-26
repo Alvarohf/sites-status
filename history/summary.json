@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 112,
+    "time": 111,
     "timeDay": 70,
-    "timeWeek": 72,
-    "timeMonth": 85,
+    "timeWeek": 73,
+    "timeMonth": 84,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2025-12-22": 41,
@@ -30,14 +30,14 @@
     "slug": "planeta-fascinante",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "70.37%",
+    "uptimeDay": "79.23%",
     "uptimeWeek": "87.28%",
     "uptimeMonth": "95.76%",
     "uptimeYear": "97.83%",
-    "time": 1334,
-    "timeDay": 1421,
-    "timeWeek": 1229,
-    "timeMonth": 1276,
+    "time": 1333,
+    "timeDay": 1819,
+    "timeWeek": 1218,
+    "timeMonth": 1269,
     "timeYear": 1311,
     "dailyMinutesDown": {
       "2026-08-01": 104,
@@ -107,7 +107,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-25": 1399,
+      "2026-10-26": 230,
+      "2026-10-25": 1440,
       "2026-10-24": 1440,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
@@ -470,8 +471,7 @@
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
-      "2025-10-27": 1440,
-      "2025-10-26": 1440
+      "2025-10-27": 1440
     }
   },
   {
@@ -486,9 +486,9 @@
     "uptimeMonth": "96.51%",
     "uptimeYear": "97.73%",
     "time": 597,
-    "timeDay": 389,
-    "timeWeek": 357,
-    "timeMonth": 551,
+    "timeDay": 265,
+    "timeWeek": 343,
+    "timeMonth": 545,
     "timeYear": 568,
     "dailyMinutesDown": {
       "2026-07-26": 50,
