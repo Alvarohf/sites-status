@@ -11,9 +11,9 @@
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.88%",
     "time": 112,
-    "timeDay": 55,
-    "timeWeek": 111,
-    "timeMonth": 89,
+    "timeDay": 84,
+    "timeWeek": 115,
+    "timeMonth": 90,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2025-12-22": 41,
@@ -29,16 +29,16 @@
     "url": "https://planetafascinante.com",
     "icon": "https://icons.duckduckgo.com/ip3/planetafascinante.com.ico",
     "slug": "planeta-fascinante",
-    "status": "down",
+    "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "96.62%",
-    "uptimeYear": "97.77%",
-    "time": 1326,
-    "timeDay": 996,
-    "timeWeek": 1255,
-    "timeMonth": 1259,
+    "uptimeDay": "92.56%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "96.39%",
+    "uptimeYear": "97.75%",
+    "time": 1325,
+    "timeDay": 980,
+    "timeWeek": 1234,
+    "timeMonth": 1250,
     "timeYear": 1278,
     "dailyMinutesDown": {
       "2026-08-02": 386,
@@ -89,7 +89,7 @@
       "2026-10-23": 646,
       "2026-10-25": 427,
       "2026-11-09": 403,
-      "2026-11-20": 5
+      "2026-11-20": 107
     }
   },
   {
@@ -109,7 +109,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-20": 127,
+      "2026-11-20": 230,
       "2026-11-19": 1440,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
@@ -481,16 +481,16 @@
     "url": "https://overtips.es",
     "icon": "https://icons.duckduckgo.com/ip3/overtips.es.ico",
     "slug": "overtips",
-    "status": "down",
+    "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.37%",
-    "uptimeYear": "97.70%",
+    "uptimeDay": "92.89%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "97.14%",
+    "uptimeYear": "97.68%",
     "time": 568,
-    "timeDay": 319,
-    "timeWeek": 355,
-    "timeMonth": 335,
+    "timeDay": 278,
+    "timeWeek": 346,
+    "timeMonth": 332,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2026-07-27": 175,
@@ -546,7 +546,7 @@
       "2026-10-23": 641,
       "2026-10-25": 112,
       "2026-11-09": 398,
-      "2026-11-20": 0
+      "2026-11-20": 102
     }
   }
 ]
